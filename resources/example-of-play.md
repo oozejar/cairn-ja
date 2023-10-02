@@ -1,266 +1,266 @@
 ---
 layout: default
-title: Example of Play
+title: プレイの例
 parent: Resources
 nav_order: 2
 ---
 
-# Example of Play
+# プレイの例
 ---
 
-## Note
-For a live "actual play" of Cairn (with Warden commentary), please see [here](https://www.youtube.com/watch?v=e3N4pqHIEwQ).
+## 注釈
+ウォーデンのコメント付きのプレイの例の動画は[こちら](https://www.youtube.com/watch?v=e3N4pqHIEwQ)にあります。
 
-**Keep the following in mind:**  
-- **Esther** is playing an ex-**Herbalist**.
-- **Barry** plays a former **Hunter**.
-- The PCs are in search of a powerful [**Relic**](/cairn-srd/#relics), rumored to have restorative powers.
-- Recently the party uncovered a parchment that detailed the item's true location, and have set off to recover it.
+**登場人物と冒険の概要：**
+- **エスター**：元**薬草師(Herbalist)**。
+- **バリー**：元**狩人(Hunter)**。
+- PCたちは回復力があると噂される強力な[**レリック**](/cairn-srd/#relics)を探している。
+- 最近、一行はレリックの本当の場所を詳しく記した羊皮紙を発見し、その回収に向けて出発した。
 
- **Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
+**ウォーデン**：君たちは午前中の大半を、つる植物や腰の高さまである灌木を切り分けながら、**ゲーナントの森**を切り抜けることに費やしてきた。周囲の下草の中で道に迷うのは簡単だ。さらに悪いことに、太陽は頭上の太い枝に隠れて見えない。
 
- **Barry**: _"Does my **Hunter** background help at all?"_
+**バリー**：僕の**狩人**としての経歴は役に立つ？
 
- **Warden:** _"Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."_
+**ウォーデン**：うん。君たちは目的地に向かってまっすぐ東へと進み続けられる。しかし、数分ごとに立ち止まって周囲を観察しなければならないので、前進は遅々として進まない。
 
- **Warden:** _"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant sitting in a solitary sunbeam; it drips a green ichor from open, blue pods."_
+**ウォーデン**：数時間後、君たちは森の中の小さな空き地に出る。空き地の反対側には、東に向かう小さな小道が見える。その小道の入り口は、一筋の陽光に照らされた大きな草花によってふさがれている。その草花は、開いた青い莢から緑色の液体を滴らせている。
 
- **Esther**: _"As a former **Herbalist**, do I recognize this plant?"_
+**エスター**：元**薬草師**として、この植物に見覚えはない？
 
- **Warden**: _"Yes. You also know that it is probably overgrown on account of the sunbeam drenching it in natural light."_
+**ウォーデン**： そうだね、君はそれがおそらく太陽光をたっぷり浴びて育ちすぎてしまっていることが分かる。
 
-**Esther**: _"What do the colors tell me about the plant? Is it poisonous? What about the green ichor?"_
+**エスター**：その色から、その植物について何わかる？毒があるとか？緑色の液体については？
 
-**Warden**: _"You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
+**ウォーデン**：君が植物を観察してみると、花びらがトリカブトのものによく似ていることがわかる。毒がある可能性が高いだろう。
 
-**Barry**: _"All right, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
+**バリー**：よし、こんな計画はどうかな？僕が植物の上にある木に登って、毛布を広げて日光を遮るんだ。うまくいけば、莢が閉じるはずだ！
 
-**Warden**: _"You carefully lay your sleeping blanket between to trunks, casting a shadow over the blue pods of the plant below. Immediately they begin to close, just enough to allow a careful person to squeeze around them."_
+**ウォーデン**：君は注意深く幹と幹の間に毛布をかけ、下にある植物の青いさやに影を落とした。すぐに莢は閉じ始め、周囲になんとか通り抜けられるくらいの空間ができる。
 
-**Esther**: _"Excellent. I'm going to carefully extract one of the leaves for later use, then move on."_
+**エスター**：素晴らしい。後で使うために慎重に葉を一枚取ってから、先に進みます。
 
-**Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world. There is a small clearing nearby where you could set up camp, shrouded by a humongous Oak tree planted close to the chasm."_
+**ウォーデン**：午後遅くに、君たちはようやく森の境界を突破した。木々の合間から飛び出し、君たちは森を二分する深い裂け目に足を踏み入れそうになった。峡谷は果てしなく続くようで橋も架かっていない。ついに君たちは、神々の滑落にたどり着いたのだ。両側の切り立った岩壁から判断すると、降りるのは非常に危険だ。残念ながら、君たちの獲物は「崖が世界の果てに出会う所」、すなわち峡谷の向こう側にある可能性が高い。周りを見渡すと、巨大な樫の木が崖っぷちにそびえ立っていて、その下にはキャンプすることができそうな小さな空き地がある。
 
- **Esther**: _"I think we should make camp before moving out. If we have to climb into or around this chasm, I'd rather have the light on our side!"_
+**エスター**：行動する前にキャンプをして朝を待つべきだと思います。この裂け目を降りたり、回り込んだりすることになるなら、明るいほうがいいに決まってる！
 
- **Barry**: _"Definitely. I wonder what the safest way to do it would be? Backs against the ravine?"_
+**バリー**：賛成。一番安全に崖を降りる方法は何だろう？渓谷に背を向けるか？
 
- **Warden**: _"Yes, unless of course something comes out of it!" Who's on first watch, by the way?"_
+**ウォーデン**：何か出てこない限りはそうだろうね。ところで、最初の見張りはどっちがする？
 
- **Esther**: _"I'll take first shift._"
+**エスター**：最初は私が見張ります。
 
-  **Warden**: _"You make camp and eat one of your rations. Halfway through the first shift, you hear a snapping of twigs coming from just to the West of the campsite, back towards the **Geunant Forest**. What do you do?"_
+**ウォーデン**：君たちはキャンプを設営し、保存食を1つ食べた。最初のシフトの途中で、エスターはキャンプ地のすぐ西側、ゲーナントの森から小枝を折れる音を聞いた。さあどうする？
 
-  **Esther**: _"I'd like to kick my comrade awake so I'm not alone in this, quietly nodding my head towards the direction of the noise and making the symbol for silence."_
+**エスター**：一人で対処するのは嫌だから、バリーを蹴り起こし、首の動きで音の方向を指し示してから、静かにするように合図します。
 
-  **Warden**: _"You do that, and he sits up just as a pair of horrid red eyes become visible behind the underbrush._"
+**ウォーデン**：君がそうすると、バリーは目を覚まし、それと同時に藪の暗がりの向こうに恐ろしげな赤い目が浮かび上がった。
 
-  **Barry**: _"What do we know about the creatures here?"_
+**バリー**：この辺りの生き物について僕たちは何か知ってるかな？
 
-  **Warden**: _"You know that whatever creatures may be stalking this forest at night are very likely dangerous. You will likely not have time to chat with whatever is about to come out of there."_
+**ウォーデン**：夜にこの森をうろついている生き物が何であれ、危険である可能性が非常に高いことは明白だろう。藪から出てくるのが何であれ、おしゃべりしている暇はなさそうだ。
 
-  **Esther**: _"I'm prepared to fight, then. I stand up and draw my sword, ready for whatever comes."_
+**エスター**： 戦う準備はできてる。何が来てもいいように、立ち上がって剣を抜きます。
 
- **Warden**: _"An Elk-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. **Esther** was at the ready, so she gets to go first."_
+**ウォーデン**：赤く光る目のエルクのような生き物が、パーティのキャンプ地とは反対側の森の暗闇から飛び出し、**バリー**、君に向かってまっすぐ走ってくる。その生き物の体からは霧が漂い出ている。**エスター**は事態に備えていたから、最初に行動できるよ。
 
- **Barry**: _"What about me?"_
+**バリー**：僕はどうなるんだ？
 
- **Warden**: _"You'll need to make a **DEX save** to see if you are able to ready yourself in time to react before the creature."_
+**ウォーデン**：クリーチャーより先に反応できるよう準備が間に合うかどうか、敏捷(DEX)セーブを行う必要があるね。
 
- **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
+**バリー**：1D20を振って、結果は17だ。しまった。
 
-**Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature. After that you both will go again in any order you wish, then the creature, and so on."_
+**ウォーデン**： うん、敏捷セーブは失敗だね。**エスター**が最初に動き、次にクリーチャー、その後は二人の好きな順番でそれぞれ行動してから、次にクリーチャーが行動、というふうにやっていこう。（訳注：バリーは敏捷セーブに失敗したことで不意打ち扱いとなり、最初のラウンドの行動権を失った、という裁定）
  
- **Esther**: _"Do we know anything about this creature?"_
+**エスター**：私達はこのクリーチャーについて何か知っていますか？
 
- **Warden**: _"Yes - it's a [**Blood Elk**](/resources/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
+**ウォーデン**： ああ。君たちはこいつが[**ブラッドエルク**](/resources/monsters/blood-elk/)ということがわかる。聞いたところによると、大きな貪欲や嫉妬から生まれた殺人鹿の一種で、かなり強力なクリーチャーだ。
 
- **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
+**エスター**：不気味！では、自分のアクションで、バリーを引きずってエルクの進行方向からどかしたいです。引きずる先はさっき話していた樫の木の近くがいいかな。
 
- **Warden**: _"You were already standing and ready to go, so I'm going to rule that this just happens, too quickly for the creature to change its trajectory. You manage to pull **Barry** just to the East of the now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. Now, it's the **Blood Elk's** turn. It plows through the space **Barry** once occupied, wrecking the campfire. It swings wildly around, nearly careening off the cliff-face in the process. It's eyes glow a hateful violet as it turns back towards the both of you. **Barry**, it's your turn. You should note that you have only your hip-knife for combat, as everything else is still back at the camp. Worse, the darkness has impeded your ability to see more than its flaming red eyes. Use 1d4 when rolling damage."_
+**ウォーデン**：君はすでに立ち上がっており、準備万端ですばやく行動したので、クリーチャーは突進の軌道を変えられなかった。ということで言った通りのことが起こったと裁定しよう。君は**バリー**を、今は踏み荒らされたキャンプ場のちょうど東側、**神々の滑落**のすぐそばにある樫の木の近くまで引き寄せることに成功した。次は**ブラッドエルク**の番だ。そいつはさっきまで**バリー**が寝転んでいた場所を突っ切ってキャンプファイヤーを蹴散らしてから、ほとんど崖から落っこちそうになりながら大回りして方向転換した。そしてその目は憎悪に満ちた青紫色に輝き、君たち二人の方を振り向く。**バリー**、君の番だ。残念ながら君は寝床に荷をほどいていたから、戦闘で使えるのは腰に身につけていたナイフだけだ。さらに悪いことに、暗闇のせいで、エルクの燃えるような赤い目以上のものを見ることができない。ダメージをロールする際は1d4を使用すること。
 
- **Barry**: _"Screaming, I launch my dagger straight at the creature. I roll 1d4 and the result is a 1."_
+**バリー**：叫びながら、ダガーをそのクリーチャーに向けてまっすぐ投げつけるよ。1d4を振り、結果は1だ。
 
- **Warden**: _"The knife flies expertly from your hand, slicing through the misty air just above the creature, landing a few feet behind it. The beast whinnies in anger, then crouches as it prepares to charge again. It's your side's turn now. Go in any order."_
+**ウォーデン**：ナイフは熟練した手つきで手から放たれたが、クリーチャーの真上の霧に包まれた空気を切り裂き、その数フィート後ろに落ちた。野獣は怒りにいななき、再び突撃しようとしゃがみこむ。今度は君たちの番だ。好きな順番でどうぞ。
 
- **Esther**: _"I have an idea: the creature previously charged at **Barry**, right? So it seems reasonable that it would do so again. What if I tossed one end of my rope to **Barry**, and then looped it to a nearby tree? Then if it comes close enough try and trample him again, he could just... leap off the cliff? Holding the rope for support, of course."_
+**エスター**：考えがあるの。そのクリーチャーは今**バリー**に突撃したよね。だから次も彼を狙おうとするのは合理的だと思う。ロープの一端を彼に向かって投げて、近くの木に結び付けるのはどうかな？そしたら、もしクリーチャーがまたバリーに近づいて踏みつぶしに来たら、バリーは崖から飛び降りるの。もちろん、ロープはしっかり掴んで。
 
- **Barry**: _"Uh... That sounds like a plan, I guess. Yes, let's do it!"_
+**バリー**： ふむ。それはいい考えかもしれない。よし、やってみよう！
 
- **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."_
+**ウォーデン**：**エスター**は、ロープの一端を**バリー**に投げ、彼は素早く樫の木にロープを巻きつけてから、反対側の崖っぷちに向かって突進し、クリーチャーがまた彼を狙うように仕向けるために叫んで注意を引いた。**エスター**は彼の落下に備えて、ロープの一端を掴み、支えになるような位置に移動した。**バリー**、君は反応できる位置にいるから、一種の非戦闘リアクションを許可しよう。
 
-  **Barry**: _"All right, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."_
+**バリー**：よし、崖っぷちに立って、やつが近づいてきたら飛び降りれるように準備をしたい。
 
-  **Warden**: _"Understood. It is now the **Blood Elk's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Blood Elk** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and goes tumbling off the cliff and into the vast dark below."_
+**ウォーデン**：いいだろう。今度は**ブラッドエルク**の番だ。やつは明らかにまだ君に対して怒りの矛先を向けているよ、**バリー**。悪魔のようなひづめを振り上げ、野獣は再び君に向かって突進してくる。野獣が目前まで迫ってきたその瞬間、君はロープにつかまって崖から飛び降りる。**ブラッドエルク**は標的が落下するのを見た瞬間、突撃を止めようとする。停止に成功するかどうか、敏捷セーブを行う。アッ、20だった。野獣は崖から転落し、眼下の広大な闇へと落ちていった。
 
- **Warden**: "_After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
+**ウォーデン**：**ブラッドエルク**との遭遇の後、君たちはキャンプを再開し、できる限りの睡眠を取る。夜明け前には二人とも目を覚まし、出発の準備を整え、旅を続ける。
 
- **Esther**: _"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"_
+**エスター**：オーケー。ところで、どうやって**神々の滑落**を渡ろう？私たちと同じ高さに橋はありますか？
 
- **Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."_
+**ウォーデン**：遙か北を見渡すと、生い茂った森の樹木が渓谷にまではみだしていて、部分的に道を塞いでいる。その先を見るためには、少し探索する必要がありそうだ。一方、南に数百メートル行くと、渓谷の中から突き出した小さな岩棚が見える。おそらく50フィート下にある。岩棚はL字型をしており、渓谷の反対側にかなり近づいている。岩棚に降りるのは少し大変そうだが、できないことはなさそうだ。
 
- **Barry**: _"I say, let's go for the shelf. Still got that rope and pitons?"_
+**バリー**：岩棚を目指そう。ロープとピトンはまだあるかい？
 
- **Esther**: _"Yeah, I don't see a better way across. Let's go."_
+**エスター**： そうだね、それがよさそう。行こう。
 
- **Warden**: _"After a half hour's walk along the ravine, you finally arrive at a spot just above the shelf. Deep within the chasm you can see a blanket of early morning fog, and just beneath it the glitter of rushing water."_
+**ウォーデン**：渓谷に沿って30分ほど歩いて、ようやく岩棚の真上に到着した。渓谷の裂け目の奥深くには早朝の霧が広がり、そのすぐ下には水のせせらぎのきらめきが見える。
 
- **Barry**: _"Are there any large stones near the edge? I'd like to hammer a piton into it, then loop our rope through. I can lower myself safely into the ravine and onto the shelf."_
+**バリー**：崖の淵近くに大きな石はあるかな？そこにピトンを打ち込んで、ロープを通したいんだ。安全に岩棚の上に降りれるようにね。
 
- **Warden**: _"You find a large stone along the edge and hammer the piton into it."_
+**ウォーデン**：君は淵沿いに大きな石を見つけ、その石にピトンを打ち込んだ。
 
- **Barry**: _"Great, I lower myself down, then light up my lantern. **Esther** will follow, I assume."_
+**バリー**：よし。ロープを伝って岩棚に降りるよ。それからランタンに火をつける。**エスター**は後を追って来るだろう。
 
- **Warden**: _"Carefully planting your feet on the shelf, you test the rope and call up to **Esther**, who climbs down. After she has arrived safely on the shelf, you survey your surroundings. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sound of rushing water below fills the ravine. Do you leave the rope behind for the return journey?"_
+**ウォーデン**：慎重に岩棚に足をおろし、ロープ試してから**エスター**に声をかける。彼女が無事に岩棚に着いた後、君たちは周囲を見回す。岩棚は渓谷の内側をジグザグに下っているように見え、ほぼ底まで続いている。渓谷の下には水のせせらぎの音が満ちている。ところで、帰路に備えてロープは残していくかい？
 
- **Esther**: _"Unfortunately, yes. I'm also going to mark our location on my map. Who knows if it'll make a difference, but just in case... OK, let's get out of here."_
+**エスター**：そうするしかなさそうだね。地図に私たちの居場所も書いておきます。それが役に立つかどうかはわからないけど、念のため…よし、ここを離れよう。
 
- **Warden**: _"You move carefully along the shelf, digging your fingers into the cliff-face for safety. After an arduous fifteen minutes, you finally arrive at a small waterfall blocking the path forward. Icy water flows down the slippery rock surface and into a small basin below. The rock wall is slick with moss here, and you will likely slip if you try to step through. What do you do?"_
+**ウォーデン**：君たちは安全のために崖に指を食い込ませながら、岩棚を慎重にくだる。15分ほどの困難な道のりの後、進路は小さな滝によって塞がれた。氷のように冷たい水が滑りやすい岩肌を流れ落ち、下の小さな滝壺に流れ込んでいる。ここの岩壁は苔むしていて滑りやすく、通り抜けようとすると滑ってしまいそうだ。どうする？
 
- **Barry**: _"Is there another way forward?"_
+**バリー**：滝を迂回する道はないかな？
 
- **Warden**: _"Not from what you can tell. You could try and climb down, but it is quite dark and likely even more dangerous."_
+**ウォーデン**：今のところ見当たらない。岩棚から下に降りてみることはできそうだが、かなり暗いし、おそらくもっと危険だろう。
 
- **Barry**: _"OK, I think I'll try my luck with the waterfall, thank you. **Esther**, can you hold on to my bag as I step through?"_
+**バリー**：仕方ない、滝で運試しをしよう。**エスター**、僕が進む間、バッグを持っていてくれないか？
 
- **Esther**: _"And have you take me with you? No thanks!"_
+**エスター**：そして私に荷物持ちさせるの？勘弁してよ！
 
- **Warden**: _"You'll have to make a **DEX save** to see if you can cross over the slick surface without slipping."_
+**ウォーデン**： 滑りやすい表面を滑らずに渡れるかどうか、敏捷セーブをする必要があるよ。
 
- **Barry**: _"OK, I hand **Esther** my lantern so I can use both hands.... and I rolled a 14, a fail. Damn."_
+**バリー** ：両手が使えるように、ランタンを**エスター**に渡します。…そしてロール結果は14、失敗だ。くそ。
 
- **Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You lose 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."_
+**ウォーデン**：君は滑って滝を転げ落ち、下の水たまりに落ちた。落ちた時水たまりの縁に手を強く打ちつけたから、敏捷に1d4のダメージを受け、利き手でアイテムをうまく掴むことができなくなった。ほとんど真っ暗だが、上にいる仲間の松明の明かりがまだ見える。
 
- **Barry**: _"Well, that was a bad idea! How exactly am I going to get back up? Unless... hey, how much can I see into the darkness below?"_
+**バリー**：いいアイデアだと思ったんだが…どうやって戻ればいいんだ？そうでなければ...そうだ、下の暗闇はどこまで見えるかな？
 
- **Warden**: _"There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
+**ウォーデン**：ここはあまり明るくないが、下の暗闇で何かが光っている。もっと明るければ、それが何かわかるかもしれない。
 
- **Esther**: _"Why don't I toss him down my lantern. Does that require a roll?"_
+**エスター**：ランタンを投げて渡そうか？ダイスロールは必要ですか？
 
- **Warden**: _"Normally, no. But remember his hand is still somewhat injured from the fall. I'm going to say that he has to roll, since he's also the most at risk."_
+**ウォーデン**：通常は必要ないよ。でも、彼は落下した時手を怪我したのをお忘れなく。最も危険な状態でもあるので、ここはロールしてもらうことにしよう。
 
-**Barry**: _"I rolled a 3. Finally!"_
+**バリー**： 3が出た。やっと！
 
- **Warden**: _"**Barry**, you catch it without issue. Now you get a decent view of the chasm beneath. You see a series of small waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself about 50 feet South where you could conceivably leap over to the other side!"_
+**ウォーデン**： **バリー**はランタンを問題なくキャッチできた。今、君は下の裂け目をまともに見ることができます。小さな滝や窪地、突き出た岩棚がいくつもあり、底を流れる川まで続いているのが見える。50フィートほど南では渓谷そのものが狭くなっていて、そこから反対側へ飛び移ることも可能だ！
 
- **Barry**: _"Ha! I knew this was a good idea. But how do we get down there?"_
+**バリー**：よし！これはいいアイデアだと思ってたんだ。でもどうやって降りよう？
 
- **Warden**: _"You can actually slide down the waterfall pouring out from the small pool you're already standing in... it's a short drop, so you aren't in any great danger, even with that hand of yours."_
+**ウォーデン**： 君が今立っている小さな水たまりから流れ出ている滝を滑り降りることができる...落差は短いから、手の怪我があっても危険はないよ。
 
- **Esther**: _"And how exactly do I get down there, though? Wait, I've got an idea. I can see him, right? What if I were to jump..."_
+**エスター**：ところで私はどうやって降りればいいの？待って、いい考えがあるわ。彼が見えるでしょ？もしジャンプしたら...
 
- **Barry**: _"...Am I supposed to catch you? With which hand, exactly?"_
+**バリー**：受け止めてやろうか？どっちの手がいいかな？
 
- **Esther**: _"Don't be ridiculous. You'll be my landing pad."_
+**エスター**：バカ言わないで。全身で受け止めるのよ。
 
- **Warden**: _"You should know that you aren't in any terrible danger here since you're actually aiming for the pool, but that doesn't mean it's risk-free. You'll need to hold on to the wall with both hands, and it should be a bumpy ride. Something could pop loose."_
+**ウォーデン**：水たまりを明確に目指すなら、それほど危険ではないだろう。でもノーリスクというわけじゃない。両手で岸壁につかまる必要があるし、行く手はでこぼこしているだろう。何か外れる可能性もある。
 
- **Esther**: _"OK, my DEX isn't great, but here goes anyways... and I rolled an 13, a fail. See **Barry**? You're not the only one with bad luck around here."_
+**エスター**：OK、私の敏捷はよくないけど、とにかくやってみよう…13をロールした、失敗よ。ほら、**バリー**、運が悪いのはあなただけじゃないのよ？
 
- **Warden**: _"You make it, but the journey down wasn't fun. One item from your pack is knocked loose, so I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."_
+**ウォーデン**：降りるには降りれたが、楽しい旅というわけにはいかなかった。君の荷物の中から1つだけ、落ちてしまうものがあるから、運命のダイス(Fate die)を振ってみよう...おい、ラッキーな5が出た！よし、何が落ちるかは君が選んでくれ。
 
- **Esther**: _"If I get to choose what I lose though... how about my remaining torch? Everything else is just too important, and we still have a lantern and oil."_
+**エスター**：何を失うか選べるとしたら...私の残りの松明かなあ？他は重要すぎるし、ランタンとオイルはまだあるから。
 
- **Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_
+**ウォーデン**：小さな金属片が渓谷の壁にぶつかり、水しぶきを上げて下の川に落ちたのが聞こえる。
 
-  **Warden**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone, at least for now. Eventually the roar of the river below begins to drown out your voices."_
+**ウォーデン**：ゆっくりと、君たちは渓谷のほぼ完全な暗闇の中に降りていく。ランタンは十分明るく安全に移動できるが、この下にいるかもしれない誰かや何かに対しては、光り輝くビーコンとなるだろう。幸いなことに、少なくとも今のところ、君たちの他には何もいないようだ。やがて川の轟音が、君たちの声をかき消し始める。
 
-  **Esther**: _"Ugh, I have a bad feeling about this. How far down do we have to go?"_
+**エスター**：うう、嫌な予感がする。あとどれくらい下ればいいんだろう？
 
-  **Warden**: _"You're just above the riverbed, actually. Carefully placing your feet onto the slick surface, you hold your lantern high and watch as the water glitters, almost in response. You are only a few dozen feet from the shelf you saw earlier as well."_
+**ウォーデン**：実際の所、もう川底のすぐ上まで来ている。ぬるぬるした水面に慎重に足を乗せ、ランタンを高く掲げると、それに応えるかのように水面がきらきらと光るのが見える。さっきいた岩棚からたった数十フィートしか離れていない。
 
-  **Esther**: _"How dangerous do we think it would be to cross that way?"_
+**エスター**：あの道を渡るのは危険かな？
 
-  **Warden**: _"You'll have to jump. The water rushes right beneath, so you'd have a soft landing. The current looks strong as well._
+**ウォーデン**：飛び移るしかないだろう。飛び先は半ば川に没していて、流れも強いから、慎重にそっと着地するがよさそうだ。
 
-  **Esther**: _"What did you mean before when you said that the river glittered as if in response? I am not prepared to deal with intelligent rivers."_
+**エスター**：川が呼応するかのようにきらきら光っていると言ったのは、どういう意味ですか？知性のある川を相手にしたくはないなあ。
 
-  **Warden**: _"You're not totally sure, but it looked like there might be something alive in there. As a former herbalist, you already know about bioluminescent plants."_
+**ウォーデン**：完全にはわからないが、何か生きものがいるように見えた。元薬草師として、君は生物発光植物については知っている。
 
-  **Barry**: _"Plants? We can handle plants. Why don't we just wade through the river here?"_
+**バリー**：植物？植物なら心配ないさ。ここから川を渡ったらいいんじゃないかな？
 
-  **Esther**: _"Hmm that's might be a good idea. Wait, what about hidden rocks and such?"_
+**エスター**：そうね、そうしましょうか。待って、隠れた岩とかはどうするの？
 
-  **Warden**: _"You could try, certainly. There don't appear to be a lot of rocks poking out of here that you can see, either."_
+**ウォーデン**：もちろん渡ろうとすることはできる。ここから突き出ている岩はあまり見えないようだね。
 
-  **Esther**: _"I'll go first this time. You hold the lantern up with your good hand, **Barry**."_
+**エスター**： 今度は私が先に行くわ。**バリー**は怪我してない方の手でランタンを掲げていて。
 
-  **Barry**: _"Good call. I'll yell out if something leaps out of the river and tries to eat you, too."_
+**バリー**：いい判断だ。川から何かが飛び出してきて、君を食べようとしたら大声を出すよ。
 
-  **Warden**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly you begin your journey; with each step you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
+**ウォーデン**：急流に踏み出すと足を取られるが、しっかりと歩を進め渡ることができる。一歩一歩進むたびに、色とりどりの植物、おそらく藻が、君の足取りに反応して光り、動いているのが見える。それはただ明かりのせいかもしれない。
 
-  **Esther**: _"Uh... Can I feel them?"_
+**エスター**：あの・・・藻を感じることはできますか？
 
-  **Warden**: _"Only the wetness of the river. Perhaps a distant tickling but that could be the reeds. They seem to react to your every movement."_
+**ウォーデン**：感じるのは川の湿り気だけだね。わずかにくすぐったさを感じるかもしれないが、それは葦のせいだろう。藻は君の動きに反応しているようだ。
 
-  **Esther**: _"Interesting. If I'm not in any danger though I think I'll press. Does our light allow us to see across the whole river yet?"_
+**エスター**：興味深いけど、危険がなさそうならこのまま進んでみます。私たちの明かりで、川全体を見渡せるようになりましたか？
 
-  **Warden**: _"Nearly. You are about halfway across when **Barry** sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."_
+**ウォーデン**：もうちょっとだね。半分ほど渡りきったところで、**バリー**が川の前方で何かが動いているのを見た。漆黒ですべすべな、ウナギのみたいなクリーチャーだ。体長は5フィートほど。
 
-  **Barry**: _"I warn her to pull back."_
+**バリー**：彼女に止まるよう警告する。
 
-  **Esther**: _"Can I outrun this thing?"_
+**エスター**：こいつから逃げ切れる？
 
-  **Warden**: _"Hmm... You'd have to make a DEX save."_
+**ウォーデン**：敏捷セーブが必要だね。
 
-  **Esther**: _"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you across once I'm on dry land again. OK, here goes... Yes, a 2! I charge across."_
+**エスター**：ごめんね**バリー**、逃げ切れるかどうか、私にまず試させて。乾いた地面に着いたら、あなたをどうやって引き寄せるか考えよう。OK、行くぞ...2だ！向こう岸に突進します。
 
-  **Warden**: _"You increase your pace dramatically, sprinting across the water in big splashes. With each leap, your foot disrupts the colorful creatures within. The water begins to roil violently around your ankles. Ahead, the eel-like creature darts away as if in response. You finally arrive at the other bank, the river's water bubbling behind you. As you leap out of the water, some of the bioluminescent substance sticks to your right ankle. Standing up on the dry ground, you seem unable to kick it off. It doesn't hurt you or anything, but feels like its been painted to your ankle."_
+**ウォーデン**：君はペースを劇的に上げ、大きな水しぶきを上げながら川面を疾走する。跳躍するたびに、君の足は中にいるカラフルな生き物をかき混ぜ、足首のあたりは激しく濁りはじめる。前方では、ウナギのような生き物が君の動きに呼応するかのように泳ぎ去っていく。君はついに対岸に到着した。背後では川の水が泡立っている。水から飛び出すと、生物発光物質の一部が右足首に付着する。乾いた地面の上でもそれを振り払うことはできないようだ。痛んだりはしないが、足首に塗られたような感じがする。
 
-  **Esther**: _"Damn! What does it feel like? Also, what do I see on this side of the river?"_
+**エスター**：うわっ！それってどんな感じ？それと、川のこっち側には何が見えますか？
 
-  **Warden**: _"It feels a bit wet, but otherwise like a tattoo on your skin. Like it's a part of you. You are standing on a near-identical bank as the opposite side; you'll have to explore a bit to learn more."_
+**ウォーデン**：少し湿った感じで、入れ墨みたいだ。まるで自分の一部みたいだ。君は反対側とほぼ同じような土手の上に立っている。辺りのことをもっと知るためには、少し探検する必要があるだろう。
 
-  **Esther**: _"I suppose I can ignore this for now, if it isn't hurting me or anything. **Barry**, how are you going to cross these swirling eel-infested waters? Maybe off that ledge further down?"_
+**エスター**：傷ついたりしないのなら、今は無視してもいいかな。**バリー**、このウナギが渦巻く流れをどうやって渡るつもり？もっと下の岩棚からとか？
 
-  **Barry**: _"That works. How many torches do you have left? I don't leave you in the dark when I head down there. You could also follow me down a bit, though the light might not be perfect."_
+**バリー**：そうしよう。松明はいくつ残ってる？僕が下に向かうとき、君を暗闇に置き去りにはしない。対岸をちょっと一緒に下ることもできるけど、明かりは十分じゃないかもしれない。
 
-  **Esther**: _"I'm all out, unfortunately. But maybe if I follow you I can do something on this end to help you jump that ledge?"_
+**エスター**：残念ながら松明はもう残ってないの。でも、あなたの後をついて行けば、あの岩棚を飛び越えるときに、こちら側から何か手助けできるかも？
 
-  **Warden**: _"You march in parallel on either sides of the fast-moving river the light from **Barry's** lamp just barely illuminating your way. **Esther**, you are having an especially difficult time as you have to hug the riverbank or avoid stepping into shadows unknown."_
+**ウォーデン**：君たちは、流れの速い川の両岸を並行して進む。**バリー**のランタンの光が、二人の行く手をかろうじて照らしている。**エスター**、君は川岸に抱きついていないといけないうえに、何がいるかわからない暗闇に足を踏み入れないようにしなければならないので、特に困難な状況に置かれている。
 
-  **Esther**: _"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"_
+**エスター**：川の近くにいるのなら、もう少し詳しく観察してみたい。渦巻く生物発光植物のようなものはまだ見えますか？
 
-  **Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see into the river."_
+**ウォーデン**：うん、まるで君の後を追っているように見える。興味深いことに、彼らの動きによって生じる光は、川の中を見通すのに十分なほど明るい。
 
-  **Barry**: _"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"_
+**バリー**：それはいい。エスターはこれでまたウナギがいないか見張れるんじゃないかな？僕の方はどうだろう？この荒涼とした渓谷を踏みしめて、何が見えるだろう？
 
-  **Warden**: _"The walls on your side of the river narrow a bit as you get closer to the raised shelf you spied earlier; in fact you begin to feel quite squeezed-in. Fortunately you are scrawny enough to just make it to the shelf, which completely blocks your way forward."_
+**ウォーデン**：川のそちら側の岩壁は、さっき見つけた盛り上がった岩棚に近づくにつれて少し狭くなっていき、圧迫感を感じる。幸い、君は十分にやせ細っているので、前方への道を完全に塞いでいる棚になんとかたどり着くことができた。
 
-  **Esther**: _"What can I see from my side of the river? Am I still forced to hug the riverbank?"_
+**エスター**：私のいる位置からは、川に何か見える？私はまだ川岸にへばりついてるしかないの？
 
-  **Warden**: _"The ravine isn't nearly as narrow from your end, meaning it would be easy to continue on forward from where you are, were you to move away from the light of course. But more importantly, you can see that the shelf used to extend across the river, as there is a mirrored shelf sticking out from the other side as well. There is a massive gap between, though. Perhaps it collapsed at some point in the past? Anyway, **Barry** can try and climb the shelf or enter the river and move around it. At least this time there isn't a slimy waterfall to get around!_
+**ウォーデン**：渓谷は君の方からはそれほど狭くないので、今いる場所から前進するのは簡単だろう。もちろんそうすると明かりから離れることになるけどね。でももっと重要なのは、対岸にも鏡のような岩棚が突き出ていて、川の向こう岸まで続いているのが見えることだ。しかし、その間に大きな割れ目がある。おそらく過去のある時点で崩壊したのだろう。とにかく、**バリー**は棚を登ってみたり、川に入って移動したりすることができる。少なくとも今回は、ぬるぬるした滝はない！
 
-  **Barry**: _"Assuming I can easily scale this thing, I'd say: let's go for it."_
+**バリー**：僕がこれを簡単に登ることができると仮定するならこう言おう。「とりあえずやってみよう！」
 
-  **Warden**: _"You mount it with ease after placing your lamp on top and then pulling yourself up. Now you just have to get across."_
+**ウォーデン**：ランタンを先に置いてから、体を引き上げ、簡単に登ることができた。あとは渡るだけだ。
 
-  **Barry**: _"Quick question, what is the water like in the exact center of the river where the gap is?"_
+**バリー**：ちょっと聞きたいんだけど、真ん中の割れ目の辺りの川の水はどんな感じかな？
 
-  **Warden**: _"It's a bit difficult to tell from here, but if you move closer you might get a better look. **Esther** however has been watching the river all the while, and can see that the waters within are moving quite rapidly, in a circular formation."_
+**ウォーデン**：ここからはちょっとわからないかな。もっと近くに行けばよく見えるかもしれない。一方、**エスター**はずっと川を見ていたから、中の水が円形にかなり速く動いているのがわかる。
 
-  **Esther**: _"These are eels right? I bet they're eels. What are my bio-friends doing right now?"_
+**エスター**：これはウナギでしょう？きっとウナギだよ。生物発光の我が友たちは今何してるんだろう？
 
-  **Warden**: _"Looking down into the waters near the shore you see that all of the bioluminescent creatures have fled, almost as if in fear of this part of the river."_
+**ウォーデン**：岸近くの水を見下ろすと、まるで川のこの部分を恐れているかのように、すべての生物発光生物が逃げていなくなっているのがわかる。
 
-  **Esther**: _"Hmm... alright, I've got a theory. **Barry**, you should hold the lantern between the gap in the "bridge" and see what happens."_
+**エスター**：ふむ...よし、考えがあるわ。**バリー**、「橋」の隙間にランタンを挟んで、何が起こるか見てちょうだい。
 
-  **Barry**: _"Uh, OK. I carefully walk to the middle of the river on the "bridge", then lay down, hanging my lantern over the edge - but only just. I want to be as safe as possible here."_
+**バリー**：OK。僕は慎重に「橋」の真ん中まで歩いていく。それから横になってランタンを端にかける。でもそれだけだ。ここではできるだけ安全でいたいんだ。
 
-  **Warden**: _"The moment you lower it, a slick black eel leaps into the air and snaps at the lantern with needle-like teeth. You're quick enough to save it, though. The eel splashes back into the water."_
+**ウォーデン**：ランタンを下げた瞬間、黒いすべすべしたウナギが宙に舞い上がり、針のような歯でランタンをへし折ろうとした。しかし君は十分素早かったから、ランタンを無事回収できた。ウナギは水しぶきを上げて水に戻った。
 
-  **Barry**: _"Wow! That was scary. I'm guessing I'll need to save in order to jump across, right?"_
+**バリー**：うわあ！怖かったあ。ジャンプして渡るには、セーブが必要だよね？
 
-  **Warden**: _"Unless you've got a better idea, yes."_
+**ウォーデン**：もっといいアイデアがなければ、そうなるね。
 
-  **Esther**: _"I have one. Hey **Barry**, why don't you extinguish that light?"_
+**エスター**：一つあるわ。ねえ**バリー**、その明かりを消してみてくれない？
 
-  **Barry**: _"Done. Now what?"_
+**バリー**：消したよ。次はどうする？
 
-  **Warden**: _"You switch off the lantern. Blinking in the darkness, your eyes slowly being to adjust. Suddenly you see a light beginning to glimmer on the far-off shore where **Esther** is standing. It's her ankle; it is lit up like a candle!"_
+**ウォーデン**：君はランタンを消灯した。暗闇の中でまばたきをしながら、目がゆっくりと慣れていく。突然、君は**エスター**が立っているはるか彼方の岸辺で、光がきらめき始めているのを見た。彼女の足首だ。まるでろうそくのように照らされている！
 
-  **Esther**: _"Wait, can I make light now? Am I a human torch?"_
+**エスター**：待って、私は今明かりを作れるの？私は人間松明になったの？
 
-  **Warden**: _"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."_
+**ウォーデン**：真っ暗闇限定だけどね。近々、暗闇の中でこそこそ歩き回るようなことが無いことを祈ろう。
 
-  **Barry**: _"Well, this is cool. So the eels like the light, right? This gives me an idea..."_
+**バリー**：これはクールだ。ところで、ウナギは光が好きなんだろ？いいアイデアが浮かんだよ。。。
