@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Resources
+title: リソース
 nav_order: 8
 has_children: true
 ---
 
-# Resources
+# リソース
