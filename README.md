@@ -1,18 +1,15 @@
 ---
 layout: default
-title: Home
+title: ホーム
 nav_order: 1
 permalink: /
 ---
 
-Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics. It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. The game was written by [Yochai Gal](https://newschoolrevolution.com).
+『Cairn（ケルン）』は、プレイヤーが奇妙な人物、隠された宝物、そして言葉では言い表せない怪物で満たされた暗くて神秘的な森を探索するロールプレイング・[アドベンチャーゲーム（英）](http://questingblog.com/adventure-game-vs-osr)です。『Cairn』はキャラクター作成は素早く且つランダムで、クラスやレベルといったルールはなく、代わりにプレイヤー同士の織り成す物語に頼るゲームシステムです。このゲームは Ben Milton氏 の[『Knave』（英）](https://www.drivethrurpg.com/product/250888/Knave)と Chris McDowall氏 の[『Into The Odd』（英）](https://chrismcdee.itch.io/electric-bastionland)を元にしています。『Cairn』は [Yochai Gal氏（英）](https://newschoolrevolution.com)によって開発されました。
 
-The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-The original Affinity Publisher file is also available with the downloads.
-
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
+『Cairn - 日本語版』のPDF版を[Itch.io](https://oozejar.itch.io/cairn-ja)より無料でダウンロードできます。
+『Cairn』はクリエイティブ・コモンズ 表示 - 継承 4.0 国際 ([CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)) ライセンスの下に提供されています。  
 
 <p></p>
 
-[![Alt text](/img/cairn.svg "Click to embiggen"){:height="50%" width="50%"}](/img/cairn.svg)
+[![Alt text](/img/cairn.svg "クリックして拡大"){:height="50%" width="50%"}](/img/cairn.svg)
