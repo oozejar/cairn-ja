@@ -1,7 +1,7 @@
-title: Cairn
+title: Cairn - 日本語版
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
-site.url: https://cairnrpg.com
+site.url: https://ja.cairnrpg.com
 logo: "/img/logo.png"
 color_scheme: light
 encoding: UTF-8
@@ -20,4 +20,6 @@ last_edit_timestamp: true # show or hide edit time - page must have `last_modifi
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 # If you want to ignore the monsters folder during builds
-# exclude: /resources/monsters
+exclude: /resources/monsters
+exclude: /tools #waiting for translation
+exclude: /localizations #waiting for translation
