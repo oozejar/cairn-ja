@@ -12,9 +12,9 @@ include:
 
 # Back to top link
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "トップへ戻る"
 
-footer_content: "The text on this page is licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0.</a>"
+footer_content: "『Cairn』はクリエイティブ・コモンズ 表示 - 継承 4.0 国際 (<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC-BY-SA 4.0.</a>) ライセンスの下に提供されています。"
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
