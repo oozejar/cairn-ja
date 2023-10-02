@@ -32,14 +32,14 @@ _zip
 scripts/cairn.code-workspace
 
 # Waiting for translation
-/accessibility
-/adventures
-/character-generator
-/hacks
-/localizations
-/resources
-/resources/monsters
-/scripts
-/submissions
-/tools
-/wip
+# /accessibility
+# /adventures
+# /character-generator
+# /hacks
+# /localizations
+# /resources
+# /resources/monsters
+# /scripts
+# /submissions
+# /tools
+# /wip
