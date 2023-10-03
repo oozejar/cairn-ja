@@ -9,11 +9,11 @@ nav_order: 2
 
 <p></p>
 
-『Cairn（ケルン）』はクリエイティブ・コモンズ 表示 - 継承 4.0 国際 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)) ライセンスの下に提供されています。
-ゲームの[リポジトリ（英）](https://github.com/yochaigal/cairn)を閲覧。
+『Cairn（ケルン）』はクリエイティブ・コモンズ 表示 - 継承 4.0 国際 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)) ライセンスの下に提供されています。<br>
+ゲームの[リポジトリ（英）](https://github.com/yochaigal/cairn)を閲覧。<br>
 ゲームを[他の形式](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm)（Word、Affinity、Google Docsなど）でダウンロード。
 
-『ケルン』は、１人の進行役（「Warden（ウォーデン）」という）と、1人以上のプレイヤーのためのアドベンチャーゲームです。
+『ケルン』は、１人の進行役（「Warden（ウォーデン）」という）と、1人以上のプレイヤーのためのアドベンチャーゲームです。<br>
 プレイヤーは経験豊富な冒険家として、奇妙な人物、隠された宝物、そして言葉では言い表せない怪物で満たされた暗くて神秘的な森を探索します。
 
 <details close markdown="block">
