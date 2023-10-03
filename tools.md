@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Accessibility
+title: Tools
+nav_order: 9
 has_children: true
-nav_order: 13
+redirect_from: /resources/tools/
 nav_exclude: true
 search_exclude: true
 ---
 
-# Accessibility
+# Tools
