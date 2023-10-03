@@ -12,4 +12,4 @@ permalink: /
 
 <p></p>
 
-[![Alt text](/img/cairn.svg "クリックして拡大"){:height="50%" width="50%"}](/img/cairn.svg)
+[![Alt text](img/cairn.svg "クリックして拡大"){:height="50%" width="50%"}](img/cairn.svg)
