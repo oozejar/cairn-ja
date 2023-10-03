@@ -3,6 +3,7 @@
 
 body{
   font-family: 'Alegreya','BIZ UDPMincho', serif;
+  font-feature-settings: "lnum"; /*Lining Figures for nicer fit with Japanese characters*/
 }
 
 tr:nth-child(even) td{
