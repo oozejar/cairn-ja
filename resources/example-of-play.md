@@ -1,7 +1,7 @@
 ---
 layout: default
 title: プレイの例
-parent: Resources
+parent: リソース
 nav_order: 2
 ---
 
