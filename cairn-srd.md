@@ -18,7 +18,7 @@ nav_order: 2
 
 <details close markdown="block">
   <summary>
-    目次
+    <h3 id:"index">目次</h3>
   </summary>
   {: .text-delta }
 - TOC
