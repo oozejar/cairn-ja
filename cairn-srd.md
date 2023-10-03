@@ -17,8 +17,8 @@ nav_order: 2
 プレイヤーは経験豊富な冒険家として、奇妙な人物、隠された宝物、そして言葉では言い表せない怪物で満たされた暗くて神秘的な森を探索します。
 
 <details close markdown="block">
-  <summary>
-    <h3 id:"index">目次</h3>
+  <summary id="index">
+    目次
   </summary>
   {: .text-delta }
 - TOC
