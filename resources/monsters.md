@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Monsters
-parent: Resources
+title: モンスター
+parent: リソース
 has_children: true
 nav_order: 7
 ---
 
-# Monsters
+# モンスター

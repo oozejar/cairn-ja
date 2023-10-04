@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Wood Troll
+# ウッドトロール
 
-10 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8, blast)
+12HP、15頑健、12敏捷、7意思、爪と噛みつき（d8+d8、ブラスト）
 
-- Large humanoid beings with alongated arms. Live in forests, sharing a deep connection with the vegetation around it.
-- As an action the troll can eat a handful of moss to fully recover its HP.
-- **Critical Damage**: Moss and twigs begin growing out of target's wounds.
+- 腕の長い大型ヒューマノイド。森に暮らし、周囲の植物と深い関わりを持つ。
+- アクションとして、一握りの苔を食べて失ったHPを完全に回復できる。
+- 重傷：対象の傷口から苔と小枝が生え始める。
