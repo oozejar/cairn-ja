@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Portuguese
-parent: Localizations
+title: ポルトガル語
+parent: 他言語版
 ---
 
 # Documento de Referência do Sistema Cairn (v.1.0)

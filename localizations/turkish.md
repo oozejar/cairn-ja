@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Turkish
-parent: Localizations
+title: トルコ語
+parent: 他言語版
 ---
 
 # Cairn Sistem Referans Belgesi (v.1.0)

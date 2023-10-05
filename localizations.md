@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Localizations
+title: 他言語版
 nav_order: 14
 has_children: true
-nav_exclude: true
-search_exclude: true
 ---
 
-# Localizations
+# 他言語版

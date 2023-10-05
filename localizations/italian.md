@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Italian
-parent: Localizations
+title: イタリア語
+parent: 他言語版
 redirect_to: https://it.cairnrpg.com
 ---
