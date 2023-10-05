@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Blink Dog
+# ブリンク・ドッグ
 
-5 HP, 11 STR, 14 DEX, 5 WIL, bite (d6)
+5HP、11頑健、14敏捷、5意思、噛みつき（d6）
 
-- Intelligent, wild dogs that travel in packs.
-- After each attack, they may teleport a safe distance away.
+- 群れで移動する知的な野犬。
+- 攻撃後、安全な距離まで瞬間移動できる。
