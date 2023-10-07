@@ -1,14 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Demonic Knight
+# デモニック・ナイト
 
-12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d10)
+12HP、3アーマー、16頑健、8敏捷、12意思、ロングソード（d10）
 
-- Once holy warriors who fell to the temptation of dark powers that they now serve in undeath. Rides nightmarish steeds into battle.
-- Lesser undead creatures mindlessly follow their command.
-- Their evil aura frightens anyone who comes into melee range.
-- **Critical Damage**: Everyone who sees the knight landing the blow is driven into bloodthirsty hatred.
+- かつては聖なる戦士だったが、闇の力の誘惑に負け、今は不死で仕えている。悪夢のような馬に乗って戦いに赴く。
+- 劣ったアンデッドのクリーチャーは無心でデモニック・ナイトの命令に従う。
+- 近接範囲に入ってきた者を怯えさせる邪悪なオーラを伝える。
+- **重傷**： デモニック・ナイトの一撃を見た者は皆、血に飢えた憎悪に駆られる。
