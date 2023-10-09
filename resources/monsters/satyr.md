@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Satyr
+# サテュロス
 
-6 HP, 12 DEX, 16 WIL, horns (d6) or pipes (save)
+6HP、12敏捷、16意思、角（d6）またはパイプ（セーブ）
 
-- Magical humanoids with the legs and horns of a goat that love to dance and drink. Found in deep forests.
-- Highly resistant to magic effects.
-- **Pipes**: Anyone who hears the music from a satyr's pipes must save WIL or fall asleep, be charmed or frightened. The Satyr chooses which effect when playing the pipes.
+- ヤギの足と角を持ち、踊りと酒を愛する魔法のヒューマノイド。深い森に生息する。
+- 魔法に強い耐性がある。
+- **パイプ**：サテュロスのパイプから流れる音楽を聞いた者は、意思セーヴに成功しなければ次の効果のいずれかが適応される：眠る・魅了される・怯える。サテュロスはパイプを演奏するとき、どの効果を使うか選ぶ。
