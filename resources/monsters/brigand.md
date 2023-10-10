@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Brigand
+# 山賊
 
-4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, shortsword (d6) or short bow (d6)
+4HP、1アーマー、12頑健、12敏捷、9意思、短剣（d6）またはショートボウ（d6）
 
-- Outlaws and mercenaries who raid settlements and ambush travelers. Travel in large groups of at least one _detachment_.
-- A detachment always travels with one leader wearing chainmail or similar (2 Armor) and a longsword (d8) or crossbow (d8).
-- When testing Morale, save using the leader's WIL (13). If the leader dies, the Brigands will flee.
+- 集落を襲ったり旅人を待ち伏せしたりする無法者や傭兵。少なくとも１分隊に当たる集団で移動する。
+- 分隊には、チェイン・シャツかそれに類するもの（2アーマー）を身に着け、ロングソード（d8）かクロスボウ（d8）を装備したリーダーが必ず同行する。
+- 士気を試す場合の意思セーブはリーダーの意思値（13）を使用し、またリーダーが死亡した場合は山賊の分隊が逃走する。
