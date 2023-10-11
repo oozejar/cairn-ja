@@ -1,15 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Phoenix
+# 不死鳥
 
-18 HP, 12 STR, 18 DEX, 18 WIL, talons (d12+d10)
+18HP、12頑健、18敏捷、18意思、爪（d12+d10）
 
-- Giant eagle-like birds made of pure flame, found in isolated regions and only attack in self-defense.
-- Posesses simple intelligence and watches travellers carefully to judge if they are a threat.
-- Its feathers are capable to heal any disease, but cannot be taken, only given by the phoenix.
-- Unharmed by fire and heat. Emits an aura of fire that does d8 damage to anyone that comes nearby.
-- If killed, disappears into a small sphere of flames. After a turn, it is reborn from its ashes and flees.
+- 純粋な炎の体を持つ巨大なワシのような鳥で、孤立した地域に生息する。自衛のためにのみ攻撃する。
+- 単純な知性を持ち、旅人を慎重に観察し脅威かどうかを判断する。
+- 羽根はどの病気も治すことができるが、不死鳥から奪うことができず、不死鳥自らが与えるほか方法ない。
+- 火や熱からダメージを受けない。火のオーラを放ち、近づいたクリーチャーにd8ダメージを与える。
+- 不死鳥は殺されると小さな火球へと消滅する。次のターンでは灰から復活し、暴走する。
