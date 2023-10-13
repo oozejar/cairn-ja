@@ -1,15 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Black Pudding
+# ブラック・プディング
 
-12 HP, 11 STR, 5 DEX, 3 WIL, devouring touch (d8)
+12HP、11頑健、5敏捷、3意思、貪食（d8）
 
-- Giant, brainless blobs of black jelly driven only by their insatiable hunger.
-- Moves along walls and across ceilings. Squeeze through holes and cracks with ease.
-- Immune to mundane attacks, save fire. Normal attacks splits the Black Pudding. creating two Puddings that share HP and STR.   
-- **Dissolve**: On **Critical Damage**, armored targets lose 1 Armor point. STR loss to unarmored targets is _permanent_.  
-
+- 脳がなく飢えしか知らない巨大な黒いゼリー。
+- 壁や天井を移動し、穴や亀裂を容易に通り抜ける。
+- 炎を除く通常攻撃は効果がない。通常攻撃はブラック・プディングを分裂させ、HPと頑健値を共有する2体を作り出す。
+- **腐食**：**重傷**を負った対象は、防具を装備している場合は1アーマーを失う。頑健の能力値減少は永続する。
