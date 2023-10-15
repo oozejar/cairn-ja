@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Gnoll
+# ノール
 
-6 HP, 1 Armor, 12 STR, 8 WIL, spear (d8) or short bow (d6)
+6HP、1アーマー、12頑健、8意思、槍（d8）もしくはショートボウ（d6）
 
-- Ferocious humanoid hyenas.   Legend says they were created in a wizard’s experiments.
-- Attack in packs, intimidating its victims with numbers.
-- **Critical Damage**: the gnoll enters in a rampage after tasting blood, making another attack immediately.
+- 凶暴な人型ハイエナ。伝説によると、ノールは魔法使いの実験で生み出されたという。
+- 群れで攻撃し、数で対象を威圧しようとする。
+- **重傷**：血を味わったノールは大暴れし、すぐに新たな攻撃を行う。
