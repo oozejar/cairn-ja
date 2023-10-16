@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Dog, Wild
+# 野犬
 
-3 HP, 12 DEX, bite (d6)
+3HP、12敏捷、噛みつき（d6）
 
-- Wild dogs that roam in forests in large packs.
-- A Wild dog automatically succeeds Morale saves while among its pack.
+- 大きな群れで森を放浪する野生化した犬。
+- 野犬は群れとともにいる限り、士気セーブは必ず成功する。
