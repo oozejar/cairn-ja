@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Elemental, Air
+# エア・エレメンタル
 
-16 HP, 11 STR, 15 DEX, 8 WIL, wind blow (d10)
+16HP、11頑健、15敏捷、8意思、突風（d10）
 
-- Huge, living vortexes of whirling air.
-- Lighter creatures are swept away by its presence.
-- It's attacks ignore any worn armor. 
+- 生きた巨大な風の渦巻。
+- 軽いクリーチャーはエア・エレメンタルに近づくと吹き飛ばされる。
+- エア・エレメンタルはすべての防具を無視する。 
