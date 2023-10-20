@@ -1,14 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Pixie
+# ピクシー
 
-6 HP, 3 STR, 18 DEX, 15 WIL, dagger (d6)
+6HP、3頑健、18敏捷、15意思、ダガー（d6）
 
-- Tiny humanoids with insectoid wings. Close relatives of fairies.
-- Extremely agile, it's impossible to simply attack one with a weapon.
-- Naturally invisible, can reveal itself if it chooses to.
-- Its mall wings only allow it to fly for short periods of time before needing to rest.
+- 昆虫のような翅を持つとても小さなヒューマノイド。フェアリーの仲間。
+- 非常に機敏で、ただ武器で攻撃することは不可能。
+- 普段は姿を隠しているが、その気になれば姿を現すことができる。
+- 翅が小さいため短時間しか飛べず、その後休む必要がある。
