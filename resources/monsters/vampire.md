@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Vampire
+# ヴァンパイア
 
-12 HP, 1 Armor, 14 STR, 12 DEX, 16 WIL, bite (d10)
+12HP、1アーマー、14頑健、12敏捷、16意思、噛みつき（d10）
 
-- Charming, undead creatures that drink the blood of mortals. Act at night and sleep in a coffin during the day. Can change its form to the one of a bat.
-- **Regeneration**: A damaged vampire regains 6 HP when it bites a target that has blood. If killed, it becomes a cloud of gas and retreats to its coffin, reforming at the next nightfall. Can only be killed if exposed to sunlight or if the coffin is destroyed.
-- **Critical Damage**: The vampire drains the targets's essence, dealing d12 damage to WIL. If the target reaches 0 WIL this way, it dies and is raised as a thrall of the vampire
+- 生者の血を吸う魅力的なアンデッド・クリーチャー。夜間に活動し、昼間は棺で眠る。コウモリの姿に変身できる。
+- **再生力**：ダメージを受けたヴァンパイアが血のある対象に噛みつくと6HPを回復する。殺されると霧となって棺へ避難し、次の夕暮れに形を取り戻す。滅ぼすには太陽光に当てさせるか、棺を壊すしかない。
+- **重傷**：ヴァンパイアは対象の魂を吸い取り、意思にd12ダメージを与える。対象の意思値が0になると死亡し、ヴァンパイアのしもべとして甦る。
