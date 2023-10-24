@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Shambling Mound
+# シャンブリング・マウンド
 
-9 HP, 15 STR, 6 DEX, 8 WIL, tendrils (d8+d8)
+9HP、15頑健、6敏捷、8意思、蔓（d8+d8）
 
-- Plant monsters with the rough shape of a 9' tall humanoid made of slimy vegetation. Dwell in dark swamps and damp undergrounds.
-- Damage from mundane weapons are _impaired_.
-- Grapples its targets and tries to drow them in water bodies.
+- ぬるぬるした植物でできた、身長3m近くある人のような形をしたモンスター。暗い沼地や湿った地下に棲む。
+- 非魔法の武器での攻撃は**妨害**される。
+- 蔓で対象を捕らえ、水中に沈めようとする。
