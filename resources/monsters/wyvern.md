@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Wyvern
+# ワイヴァーン
 
-7 HP, 14 DEX, bite (d8+d8) or poisonous sting (d6)
+7HP、14敏捷、噛みつき（d8+d8）または毒針（d6）
 
-- Winged, two-legged, reptilian monsters with a long tail tipped with a venomous sting. Dwell in any terrain, but favor dry cliffs.
-- Shy away from other creatures, but attacks anything that comes in the victiny of its nest.
-- **Critical Damage**: The deadly poison permanently debilitates the target, reducing its maximum STR to the current value. 
+- 翼と後肢、そして長い尾の先に毒針を特徴に持つ爬虫類のモンスター。どの地形にも生息できるが、乾燥した崖を好む。
+- 他のクリーチャーを避ける傾向があるが、巣に近づくものはなんでも攻撃する。
+- **重傷**: 毒は対象を永久に衰弱させ、頑健の最大値を現在の値まで減少させる。
