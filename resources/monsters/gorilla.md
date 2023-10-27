@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Gorilla
+# ゴリラ
 
-6 HP, 14 STR, fists (d6+d6)
+6HP、14頑健、拳（d6+d6）
 
-- Large, muscular apes that dwell in hot jungles.
-- Mostly peaceful until provoked, but will impose itself on the presence of its young.
-- **Critical Damage**: Rends the victim for 1d4 extra STR damage.
+- 暑いジャングルに生息する筋肉質の大型類人猿。
+- 挑発されない限り温和な性格で、子供が近くにいる場合は相手を脅そうとする。
+- **重傷**：対象を引き裂こうと追加で頑健に1d4ダメージを与える。
