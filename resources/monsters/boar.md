@@ -1,13 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Boar
+# イノシシ
 
-3 HP, 12 STR, 6 WIL, tusks (d6)
+3HP、12頑健、6意思、牙（d6）
 
-- Omnivorous wild boars that dwell primarily in forests.
-- Not naturally aggressive, but dangerous if disturbed.
-- **Critical Damage**: Gores its victims, causing great loss of blood.
+- 主に森林に生息する雑食の野生イノシシ。
+- 本来は攻撃的ではないが、邪魔されると危険。
+- **重傷**： 攻撃の対象を抉り、大量出血を引き起こす。
+
