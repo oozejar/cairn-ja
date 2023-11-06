@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Lich
+# リッチ
 
-18 HP, 1 Armor, 18 WIL, soul dagger (d8)
+18HP、1アーマー、18意思、ソウル・ダガー（d8）
 
-- Powerful wizards who refused death by turning themselves in soulless undead.
-- Able to cast virtually any spell without suffering consequences. Carries 2d6 random spellbooks with them.
-- **Critical Damage**: The target is paralyzed until it fully rests.
+- 死を拒否し、魂を捨てアンデッドになることを選んだ強力な魔法使い。
+- 結果を恐れずどんな呪文も唱えることができる。ランダムな呪文書を2d6冊持ち歩く。
+- **重傷**：対象は完全に休息するまで全身不随になる。
