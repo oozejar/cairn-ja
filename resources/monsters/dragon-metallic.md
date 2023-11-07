@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Metallic Dragon
+# メタリック・ドラゴン
 
-15 HP, 3 Armor, 18 STR, 13 DEX, 16 WIL, bite (d12+d10), _detachment_
+15HP、3アーマー、18頑健、13敏捷、16意思、噛みつき（d12+d10）、**分隊**
 
-- Majestic draconic beings with shiny metallic scales. Said to be created by a Red Dragon embraced by divine power. Feed on precious metals like gold, silver or copper, with its scales matching the metal it has eaten the most.
-- Master shapechangers, can take the form of any humanoid or animal.
-- **Gas Cloud**: Breathes a thick cloud of white hot smoke, dealing d12 damage to all caught and leaving them drowsy and slowed. It needs a short rest before being able to do this again.
+- 輝く金属の鱗を持つ雄大なドラゴン。レッド・ドラゴンを元に神の力によって作り出されると言われている。金・銀・銅などの貴金属を食べ、鱗は最も多く食べた金属でできている。
+- 変幻自在の達人で、どのヒューマノイドと動物もの姿になれる。
+- **ガス・クラウド**：熱した白い煙を吐き、d12ブラストダメージを与える。巻き込まれた対象は眠くなり、動きが鈍くなる。再びガス・クラウドを吐くのには短い休息が必要。
