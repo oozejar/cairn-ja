@@ -1,13 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Eye of Terror
+# アイ・オヴ・テラー
 
-15 HP, 8 DEX, 18 WIL, bite (d8+d8)
+15HP、8敏捷、18意思、噛みつき（d8+d8）
 
-- Floating spheres with a large maw, one big central eye, and several small eyes on stalks scattered through the body.   Scheming and greedy, lair deep underground.
-- Cancels any magic effect in a nearby range facing its central eye.
-- The eyestalks cast one of those spells each round randomly: (1-Charm, 2-Phobia, 3-Telekinesis, 4-Sleep, 5-Shuffle, 6-Vision).
+- 大きな口、中央に一つの大きな目、体中に点在する茎についた小さな目を数個持つ浮遊球体。地下深くにアジトを持ち、狡猾で貪欲にあふれる。
+- 中央の目の視界内でちかくにある魔法を無効化する。
+- 茎の目は毎ターン次の呪文から１つをランダムに詠唱する（d6）｜1：チャーム（魅了）、2：フォビア（恐怖症）、3：テレキネシス（念動力）、4：スリープ（睡眠）、5：シャッフル（入れ替え）、6：ヴィジョン（幻視）
+
