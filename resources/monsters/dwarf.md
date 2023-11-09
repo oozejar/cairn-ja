@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Dwarf
+# ドワーフ
 
-4 HP, 2 Armor, 14 STR, hammer (d8)
+4HP、2アーマー、14頑健、ハンマー（d8）
 
-- Short, bulky, humanoids with tough skin like earth and stone. Dwell in mountains and underground.
-- Do not rely on light, being able to see shapes and heat patterns in darkness.
-- Highly resistant to poison and disease.
+- 土や石のようで丈夫な肌を持つ、背が低くがっしりしたヒューマノイド。山や地下に暮らす。
+- 目は光に頼らず、暗闇でも形や放熱パターンを見ることができる。
+- 毒と病気の耐性が高い。
