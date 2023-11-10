@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Griffon
+# グリフォン
 
-7 HP, 14 STR, 15 DEX, beak (d8+d8) or claws (d6, blast)
+7HP、14頑健、15敏捷、くちばし（d8+d8）または爪（d6、ブラスト）
 
-- Ravenous hybrid predators, with the head and wings of an eagle and the lower body of a lion.
-- Fly and attack at astonishing speeds, being able to dive for an attack and fly away before the target can react.
-- Can be used as a mount if taken young and properly trained.
+- ワシの頭と翼、そしてライオンの下半身を持つ貪欲な混成獣。
+- 目ざましいスピードで飛んで攻撃する。急降下して対象が反応する前に飛び去ることができる。
+- 若くして捕獲し適切に訓練すれば、マウントとして使用できる。
