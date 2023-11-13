@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Flesh Construct
+# フレッシュ・コンストラクト
 
-9 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, fists (d10+d10)
+9HP、1アーマー、15頑健、8敏捷、8意思、拳（d10+d10）
 
-- 7’ tall bloated humanoid abominations made of flesh stitched together.
-- Mundane attacks, fire, and cold attacks are _impaired_ against it.
-- **Absorb Lightning**: If the construct is ever hit by electricty, it fully recovers oth HP and STR, and its next attacks are _enhanced_. 
+- 高さ2メートルを超える、肉を縫い合わせてできた膨れた忌まわしいヒューマノイド。
+- フレッシュ・コンストラクトを対象にした通常・火炎・冷気攻撃は**妨害**される。
+- **落雷吸収**: コンストラクトが感電すると、HPと頑健は最大値まで回復し、次の攻撃が**強化**される。
