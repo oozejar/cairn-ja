@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Dryad
+# ドライアド
 
-4 HP, 14 WIL, unarmed (d4)
+4HP、14意思、非武装（d4）
 
-- Shy, peaceful tree spirits whose manifest in a beautiful female form.
-- Spiritually bound with a tree, may disappear by joining with the tree again. Can’t go too far away from it and dies if the tree is destroyed.
-- Charm strangers that come near. Charmed creatures mindlessly walk into the tree, disappearing forever if not rescued quickly.
+- 内気で平和的な木の精霊。美しい女性の姿で現れる。
+- 特定の一本の木と精神的に結びつかれており、再びその木と融合することで姿を消すことができる。木から遠く離れることはできず、木が破壊されると死ぬ。
+- 近づいた見知らぬ人を魅了する。魅了されたクリーチャーは何心なく木の中に入っていき、すぐに助け出さなければ永遠に消えてしまう。
