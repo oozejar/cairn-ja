@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Draugr
+# ドラウグル
 
-12 HP, 2 Armor, 15 STR, 9 DEX, 13 WIL, rusty broadsword (d8)
+12HP、2アーマー、15頑健、9敏捷、13意思、錆びたブロードソード（d8）
 
-- Undead horror made of withered flesh. Rises from those killed in battle and left to rot.
-- **Critical Damage**: target is instantly killed, only to rise later as a Thrall.
+- 枯れた肉でできたアンデッドのホラー。戦死し、腐敗したまま放置された者から成る。
+- **重傷**: 対象は即死するが、後にドラウグルのしもべとして甦る。
