@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Giant Rockfish
+# 巨大ロックフィッシュ
 
-5 HP, 1 Armor, 12 STR, spine (d6)
+5HP、1アーマー、12頑健、トゲ（d6）
 
-- Spiny fish with rock-like scales. Live in saltwater. Normally passive, but attacks if disturbed.
-- Camouflages in rocks and coral formations.
-- **Critical Damage**: The spines release a highly lethal venom (d8 extra STR damage).
+- トゲと、岩のような鱗を持つ魚。海水に生息する。普段はおとなしいが、邪魔されると攻撃する。
+- 岩や珊瑚の中に潜む。
+- **重傷**： トゲが致死性の高い毒を分泌する（+d8頑健ダメージ）。
