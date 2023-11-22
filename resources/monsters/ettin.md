@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Ettin
+# エティン
 
-10 HP, 16 STR, 6 WIL, club (d10)
+10HP、16頑健、6意思、棍棒（d10）
 
-- Two-headed giant kin of low intelligence and aggressive behavior.   Lay underground and only act in darkness.
-- One head is always vigilant, preventing being surprised.
+- 単純で攻撃的な双頭の巨人。 地下に潜り、暗闇でのみ行動する。
+- 奇襲を防ぐため、片方の頭は常に警戒している。
