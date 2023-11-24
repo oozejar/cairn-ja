@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Giant Draco
+# 巨大トビトカゲ
 
-6 HP, 14 STR, 14 DEX, bite (d10)
+6HP、14頑健、14敏捷、噛みつき（d10）
 
-- 6' long carnivorous lizards with skin flaps between legs that allow gliding.
-- Dwell mostly on the surface, but sometimes can be found underground.
-- Hunt by waiting atop tall places and gliding down to surprise targets.
+- 体長2メートル近くある肉食トカゲ。脚の間に滑空を可能にする扇状の皮膜がある。
+- 主に地表に生息するが、地下で出会うこともある。
+- 高い場所で待ち伏せし、滑空して対象を奇襲する。
