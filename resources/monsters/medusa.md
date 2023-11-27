@@ -1,14 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Medusa
+# メデゥーサ
 
-10 HP, 8 STR, 12 DEX, 16 WIL, snake bites (d6+d4) or gaze (save)
+10HP、8頑健、12敏捷、16意思、蛇の噛みつき（d6+d4）または視線（セーブ）
 
-- Magical creatures that look like women with snakes in place of hair.
-- Clever and proud, but reasonable. Will let adventurers go free if they somehow please its ego.
-- **Gaze**: Anyone who looks directly at the medusa's face must save WIL or be turned to stone. Averting eyes from the face prevents this effect, but impairs any damage dealt.
-- Targets turned into stone can be recovered by a willing kiss of the medusa, or by being bathed in its blood. The blood of a medusa is only enough to recover a single victim.
+- 頭髪が蛇の女性のような魔法クリーチャー。
+- 利口でプライドが高いが、道理をわきまえる。エゴを満足させれば、捕まった冒険者を自由にするだろう。
+- **視線**：メデゥーサの顔を直視した者は意思セーブに成功しなければ石像にされる。顔から目をそらすとこの効果は防げるが、攻撃は妨害される。
+- 石像に変えられた対象は、メデゥーサ自らのキスを受けるか、メデゥーサの血を浴びることで、元の姿に戻れる。一体のメデゥーサから回収できる血の量は、1人の対象の回復分しかない。
