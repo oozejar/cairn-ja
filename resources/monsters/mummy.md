@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Mummy
+# ミイラ
 
-6 HP, 12 STR, 8 DEX, 6 WIL, infected touch (d10)
+6HP、12頑健、8敏捷、6意思、接触感染 (d10)
 
-- Undead humanoids wrapped in funerary bandages. Found in ruins of temples and tombs.
-- The first time anyone sees the mummy, it must save WIL or be paralyzed. The paralysis ends immediately if the mummy attacks or goes out of sight.
-- **Critical Damage**: The mummy inflicts a disease that rots open wounds, making them impossible to heal normally. Can only be removed by magic.
+- 葬式の包帯に包まれたアンデッドのヒューマノイド。 神殿の廃墟や墓で遭遇する。
+- 初めてミイラを見た者は意思セーブに成功しなければ、恐怖で身動きできなくなる。ミイラが攻撃したり、視界から消えた場合、即座に再度動けるようになる。
+- **重症**：対象は開いた傷を腐らせる病気に感染する。通常の治療が効かず、魔法でしか治せない。
