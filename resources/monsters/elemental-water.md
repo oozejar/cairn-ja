@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Elemental, Water
+# ウォーター・エレメンタル
 
-12 HP, 2 Armor, 15 STR, blow (d8)
+12HP、2アーマー、15頑健、殴打（d8）
 
-- Huge waves of flowing water.
-- Must stay near a body of water.
-- Envelop victims inside their forms to drown then.
+- 巨大な水の波。
+- 水辺を離れられない。
+- 対象を体内に封じ込めて、溺れさせようとする。
