@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Bear, Grizzly
+# ハイイログマ
 
-6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8), bite (d10)
+6HP、15頑健、13敏捷、5意思、爪（d8+d8）、噛みつき（d10）
 
-- Aggressive, 9’ tall reddish-brown bears found in mountains, woodlands, and prairies. 
-- They prefer to eat fish and meat, and are not opposed to attacking the rare unfortunate to cross their path.
+- 体長３メートル近くある攻撃的で赤褐色のクマ。山地、森林、草原に生息する。
+- 魚や鳥獣の肉を好んで食べるが、不幸にも遭遇したヒューマノイドを襲うこともある。
