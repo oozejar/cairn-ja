@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Cloud Giant
+# クラウド・ジャイアント
 
-14 HP, 1 Armor, 16 STR, 12 DEX, 18 WIL, mace (d10+d10), __detachment__
+14HP、1アーマー、16頑健、12敏捷、18意思、メイス（d10+d10）、**分隊**
 
-- 20’ tall humanoids with hair and skin in tones of grey and white. House in castles built atop the highest mountains or floating in cloud banks.
-- Cannot be surprised due to its keen sight and smell.
-- Strong winds constantly surround it, Impairing projectile attacks.
+- 灰色と白の色合いの髪と肌を持つ身長６メートルの巨人。最も高い山頂に建てられた城や、雲に浮かぶ館に住んでいる。
+- 鋭い視覚と嗅覚を持ち、不意打ちを喰らえない。
+- 常に強風に取り囲まれ、射出武器による攻撃は妨害される。
