@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Gargoyle
+# ガーゴイル
 
-8 HP, 3 Armor, 14 STR, 6 DEX, 12 WIL, claws (d8+d6)
+8HP、3アーマー、14頑健、6敏捷、12意思、爪（d8+d6）
 
-- Magical creatures that look like monstrous, horned, winged statues.
-- Guard places by standing still to pass like inanimate statues and attacking what comes near.
-- Cannot be charmed and put to sleep.
+- 角と翼を持つ怪物の彫像に似た魔法クリーチャー。
+- あらゆる場所を警守するため、不動の彫像になって通り過ぎる者を攻撃する。
+- 魅了したり眠らせたりすることはできない。
