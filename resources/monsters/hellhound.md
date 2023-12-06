@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Hellhound
+# ヘルハウンド
 
-8 HP, 12 STR, 15 DEX, bite (d8+d6) or fire breath (d8)
+8HP、12頑健、15敏捷、噛みつき（d8+d6）または火炎ブレス（d8）
 
-- Monstrous, intelligent dogs with the size of a large wolf. Dwell near volcanoes and sometimes accompany other fire-related creatures.
-- Immune to fire and heat, its insides are hot enough to melt iron if it is swallowed.
-- Don't rely on sight to find its foes, due to its keen sense of smell.
+- 狼ぐらいの大きさで賢い大型怪物犬。火山付近に生息し、火属性のクリーチャーと同行していることもある。
+- 体内は飲み込んだ鉄を溶かすほど熱く、火や熱によるダメージを受けない。
+- 敵を探したりする際は視覚に頼らず、鋭い嗅覚を使う。
