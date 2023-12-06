@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Giant Octopus
+# 巨大タコ
 
-8 HP, 14 STR, 8 WIL, tentacles (d6, blast)
+8HP、14頑健、8意思、触手（d6、ブラスト）
 
-- Large, eight-armed saltwater creatures. Dwell nearby warm coasts.
-- Can attack up to 8 nearby creatures.
-- When threatened, spills a thick cloud of ink and quickly swims away.
+- 8本の腕を持つ大型海水生物。温暖な海岸の近くに生息する。
+- 近くの対象を8体まで攻撃できる。
+- 威嚇されると、濃いインクの雲を吐き、素早く泳ぎ去る。
