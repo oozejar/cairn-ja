@@ -1,13 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Treant
+# トレント
 
-10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d10+d8, blast)
+10HP、3アーマー、15頑健、3敏捷、12意思、根（d10+d8、ブラスト）
 
-- A human face made of bark on the trunk of a massive tree. Found in the center of thick forests where it spreads its massive roots.
-- Connected to all trees on its forest, can control their growth and move their branches.
-- It feeds by draining energy from fresh bodies, any amount can be used, but the mightier the creature the better.
+- 巨木に樹皮で形成された人の顔。巨大な根を広げる深い森の中心で発見される。
+- 森にあるすべての樹木とつながっており、その成長をコントロールし、枝を動かすことができる。
+- 新鮮な死体からエネルギーを排出することで捕食する。量は問わないが、より強大なクリーチャーほど良い。
+- 死んで間もないクリーチャーからエネルギーを吸収する。生きたときのクリーチャーが強ければ強いほど、トレントはエネルギーを得ることができる。
