@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Elemental, Earth
+# アース・エレメンタル
 
-12 HP, 3 Armor, 16 STR, 6 DEX, fists (d12)
+12HP、3アーマー、16頑健、6敏捷、拳（d12）
 
-- Huge humanoid beings made of earth and stone.
-- Create constant earth tremors with their presence.
-- Can meld into the earth and move through it as if swimming.
+- 土と石でできた巨大なヒューマノイド。
+- 絶え間ない地響きを起こす。
+- 土に溶け込み、泳ぐように土の中を移動できる。
