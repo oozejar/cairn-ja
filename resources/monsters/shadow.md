@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Shadow
+# シャドウ
 
-6 HP, 8 STR, 14 WIL, draining touch (d6, ignores armor) 
+6HP、8頑健、14意思、吸収する接触（d6、アーマーを無視する）
 
-- Incorporeal monsters that look like animated shadows.
-- Unharmed by mundane attacks, sleep or mind control.
-- **Critical Damage**: The target loses another d4 STR, if reduced to 0 STR, they become a shadow.
+- 動く影のような実体のないモンスター。
+- 通常攻撃、睡眠、マインドコントロールは無効化。
+- **重傷**：対象は更にd4頑健を失い、0頑健になるとシャドウに変身する。
