@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Roc
+# ロック鳥
 
-18 HP, 18 STR, 14 DEX, 12 WIL, claws (d8+d8, blast) or bite (d10+d10), _detachment_
+18HP、18頑健、14敏捷、12意思、爪（d8+d8、ブラスト）または噛みつき（d10+d10）、**分隊**
 
-- Gargantuan birds of prey that nest atop the highest peaks and attack anything that approaches their nests. Considered myths by most people.
-- Surprise victims by swooping down from above.
-- Legend says that if someone steals a egg and nurses until it hatches, the bird will whisper powerful knowledge to the caretaker before flying away.
+- 高い山頂に巣を作り、巣に近づくものを襲う巨大な猛禽類。ほとんどの人は神話だと考えている。
+- 上空から急降下し、対象を奇襲する。
+- 伝説によれば、卵を盗んで孵化するまで世話すると、鳥は飛び去る前に世話人に強力な知識をささやくという。
