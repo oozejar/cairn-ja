@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Titan
+# タイタン
 
-18 HP, 2 Armor, 16 STR, 12 DEX, 18 WIL, sword (d12+d10)
+18HP、2アーマー、16頑健、12敏捷、18意思、剣（d12+d10）
 
-- 20’ tall humanoids of radiant beauty and athletic build. Beneficent of character, but prone to megalomania. Natives of other planes, but sometimes have strongholds in the mortal world.
-- Can levitate at will, with precise control of its movement.
-- Masters of spellcasting, carry 2d6 spellbooks and can always enchance spell effects without risk or need to prepare for it.
+- 大変美しく、筋骨隆々の伸長6メートルある巨人。善良な性格だが誇大妄想に陥りやすい。異次元出身だが、現世に拠点を持つこともある。
+- 自在に浮遊し、その動きを正確にコントロールできる。
+- 呪文の詠唱の達人で、2d6の呪文書を携帯している。時間と安全なしにも、呪文の効果を自由に高めることができる。
