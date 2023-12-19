@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Snake, Spitting Cobra
+# ヘビ、ドクフキコブラ
 
-3 HP, 14 DEX, acid spit (d6)
+3HP、14敏捷、酸性つば（d6）
 
-- 3' long snake with grey and white scales. Notably shy, live in places where they can blend in.
-- Attack from distance with their acidic spit, always aiming for the head of the target.
-- **Critical Damage**: The acid corrodes the target's face, permantly damaging its visage and senses.
+- 灰色と白の鱗を持つ体長1メートルほどのヘビ。人見知りが激しく、人目につきにくい場所に生息する。
+- 酸の唾液で対象の頭部を狙い、遠距離攻撃を行う。
+- **重傷**: 酸は対象の顔を腐食させ、その顔と感覚が永久的に損傷する。
