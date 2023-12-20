@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Ghost
+# ゴースト
 
-8 HP, 15 WIL, cold touch (d4)
+8HP、15意思、寒の接触（d4）
 
-- Incorporeal spirits of the restless dead. Avoids direct confrontation, instead it quietly posesses a target and acts through them when possible.
-- Immune to most forms of damage, only suscetible to magic and holy water. 
-- **Posession**: One target must save WIL or be posessed, being controlled by the ghost until it's somehow driven off. 
+- 安らぎを得られない死者の霊。直接対決を避け、密かに人などに取りつきそれを通して行動しようとする。
+- 通常攻撃に損傷されず、魔法と聖水によるダメージしか受けない。
+- **憑依**: 対象は意思セーブを成功しなければ、どうにかして追い払うまでゴーストに操られる。
