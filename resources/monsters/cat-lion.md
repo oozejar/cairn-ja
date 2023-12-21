@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Cat, Lion
+# ネコ科、ライオン
 
-5 HP, 12 STR, 12 DEX, 11 WIL, bite (d10), claws (d6+d6)
+5HP、12頑健、12敏捷、11意思、噛みつき（d10）、爪（d6+d6）
 
-- Hunts in a pride of at least 4. Lives in the savannahs or other similarly dry lands.
-- Carnivorous. Only hunts humans if desperatly hungry or in clear advantage.
-- **Blood-sense**: Can follow bleeding prey over great distances. 
+- 4頭以上の群れで狩りをする。 サバンナまたは類似の乾燥地帯に生息する。
+- 肉食性。よほど空腹か、明らかに有利な場合にのみ人間を襲う。
+- **血の感知**：血を流した獲物を遠くまで追いかけることができる。
