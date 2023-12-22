@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Green Slime
+# グリーン・スライム
 
-3 HP, 18 STR, 6 DEX, 3 WIL, acidic touch (d10+d8)
+3HP、18頑健、6敏捷、3意思、酸の接触（d10+d8）
 
-- Large blobs of green slime that stick to walls and ceiling. Attack by dropping on top of their victims.
-- The acid corrodes both metal and wood along with the carrier, but cannot affect stone. Consumed flesh becomes more green slime.
-- Immune to all damage except fire. Once stuck on a victim, can only be removed if burned away.
+- 壁や天井に張り付く緑色の大きなスライムの塊。対象の上に落下して攻撃する。
+- 酸は金属と木材を腐食させるが、石には作用しない。腐食した肉はさらにスライムになる。
+- 火以外のすべてのダメージを受けない。一度対象に付着すると、焼き払わないと除去できない。
