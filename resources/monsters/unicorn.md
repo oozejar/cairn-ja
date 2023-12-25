@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Unicorn
+# ユニコーン
 
-6 HP, 12 DEX, 14 WIL, horn (d10, ignores armor)
+6HP、12敏捷、14意思、角（d10、アーマーを無視する）
 
-- Magical horses with a single long horn on its foreheade. Timid, but proud and wilful, are seen as divine beings.
-- Its hairs are worth small fortunes due to its powerful healing properties.
-- Can teleport to any place in its sight once a day.
+- 額に一本の長い角を持つ魔法の馬。臆病だが誇り高く、意志が強い。
+- 毛には強力な治癒効果があり、高価とされている。
+- 1日1回、視界内の場所に瞬間移動できる。
