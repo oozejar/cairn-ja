@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Great White Shark
+# ホオジロザメ
 
-8 HP, 14 STR, 14 DEX, 6 WIL, bite (d10+d10)
+8HP、14頑健、14敏捷、6意思、噛みつき（d10+d10）
 
-- 30' long aggressive fish of a grey coloration. Dwell deep salt water, and sometimes attack smaller boats.
-- Can detect the smell of blood from many miles away.
-- Once moves to attack, doesn't stop until death.
+- 攻撃的で体長9メートルまである灰色のサメ. 深い海に生息し、時には小型のボートを襲うこともある。
+- 何キロも離れていても血の臭いを感知できる。
+- 一度攻撃すると、対象の死に至るまで止まらない。
