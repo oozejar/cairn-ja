@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Giant Weasel
+# 巨大イタチ
 
-6 HP, 15 STR, 14 DEX, bite and claws (d12+d10)
+6HP、15頑健、14敏捷、噛みつきと爪（d12+d10）
 
-- 6’ long, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups.
-- Vicious trackers, can smell blood at long distances. Prefer to stalk targets that are already wounded to finish them off.
-- After attacking, locks its powerful jaws on the target and keeps biting, only releasing if its sure the victim is dead.
+- 体長2メートル近くある肉食哺乳類。もふもふの毛は茶、黄金、または白です。地下トンネルに棲み、単独または小集団で狩りをする。
+- 追跡能力に優れ、遠距離でも血の匂いを嗅ぎ分けることができる。すでに傷ついた対象をつけ狙い、とどめを刺すことを好む。
+- 攻撃後、対象の死を確信するまで噛み続ける。
