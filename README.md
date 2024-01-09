@@ -9,7 +9,7 @@ permalink: /
 
 『Cairn - 日本語版』のPDF版を[Itch.io](https://oozejar.itch.io/cairn-ja)より無料でダウンロードできます。<br>
 無線綴じのオンデマンド印刷版が[Amazon](https://amzn.asia/d/hkd2Hm5)より入手可能です。原価で販売されています。<br>
-邦訳： [Oozejar](https://twitter.com/oozejar)、[mayosuke](https://twitter.com/mayosuke)（プレイの例）
+邦訳： [Oozejar](https://twitter.com/oozejar)、[mayosuke](https://twitter.com/mayosuke)（プレイの例、SRD校正）
 
 『Cairn』はクリエイティブ・コモンズ 表示 - 継承 4.0 国際 ([CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)) ライセンスの下に提供されています。  
 
