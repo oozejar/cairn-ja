@@ -1,14 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Hobgoblin
+# ホブゴブリン
 
-6 HP, 2 Armor, 14 STR, 8 DEX, mace (d8)
+6HP、2アーマー、14頑健、8敏捷、メイス（d8）
 
-- Large and burly relatives of goblins. Dwell in underground fortresses, but frequently march in aboveground campaigns.
-- Strongly lawful and militarized culture, follow orders without question.
-- Automatically succeed in Morale Saves if a commander is present. 
-- Trained to fight together, damage dealt is _enhanced_ if an ally is also engaged with the same enemy.
+- 大きくて屈強なゴブリンの親戚。地下要塞に住むが、地上の作戦では頻繁に行軍する。
+- 強い順法精神と軍事的な文化を持ち、命令には問答無用で従う。
+- 指揮官がいる場合は自動的に士気セーヴに成功する。
+- 共に戦うように訓練されており、味方が同じ敵と交戦している場合、攻撃は**強化**される。
