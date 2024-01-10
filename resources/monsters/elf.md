@@ -1,12 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Elf
+# エルフ
 
-4 HP, 1 Armor, 8 STR, 14 DEX, 14 WIL, shortswords (d6+d6) or longbow (d8), a Spellbook (choose one: Charm or Detect Magic)
+4HP、1アーマー、8頑健、14敏捷、14意志、ショートソード（d6）またはロングボウ（d8）
 
-- Slender, long-lived, fey humanoids with pointed ears. Live in harmony with nature, adapting to it instead of conquering.
-- Highly resistant to charming and mind-controlling effects.
+- 長命で、尖った耳を持つ細身のフェイで、自然との調和を好む。
+- 魅了やマインドコントロール効果に対する耐性が高い。
+- ３つの呪文を自由に唱えることができる：チャーム（魅了）、パシファイ（平和）、テレパシー
