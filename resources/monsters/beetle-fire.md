@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Beetle, Fire
+# ファイヤー・ビートル
 
-2 HP, 4 STR, 12 DEX, 6 WIL, bite (d4)
+2HP、4頑健、12敏捷、6意志、噛みつき（d4）
 
-- 3’ long beetles commonly found both deep underground and buried in thick brambles. 
-- Produces a orange slime through the abdomen that lasts for several days. The productive organ is very valuable alchemists.
+- 地中深くに生息する犬ほどの大きさの甲虫。
+- 臓器は数日間光る鮮やかなスライムを生成する。錬金術師や芸術家にとって非常に貴重な素材となっている。
