@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Dog, Hunting
+# 猟犬
 
-3 HP, 12 DEX, bite (d6)
+3HP、12敏捷、噛みつき（d6）
 
-- Bulky, domestic breeds with a ferocious nature.
-- Track by scent. Once started, very difficult to put off the trail.
-- Only attack at their owner’s command.
+- 獰猛な飼い犬。
+- 嗅覚で追跡する。一度追跡し始めると、追跡を止めるのは非常に難しい。
+- 飼い主の命令でのみ攻撃する。
