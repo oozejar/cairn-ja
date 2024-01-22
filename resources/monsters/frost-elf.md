@@ -1,12 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Frost Elf
+# フロスト・エルフ
 
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: Sleep, Teleport, Detect Magic)
+HP14、アーマー1、頑健8、敏捷13、意志14、つららのダガー（d6）
 
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
+- 美しく、長寿で、道徳観念はない。
+- ほとんどの魔法に耐性を持つ。
+- ３つの呪文を自由に唱えることができる：スリープ（睡眠）、テレポート（瞬間移動）、ディテクト・マジック（魔法の感知）
