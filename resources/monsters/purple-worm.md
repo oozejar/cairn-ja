@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Purple Worm
+# パープル・ワーム
 
-18 HP, 1 Armor, 18 STR, 8 DEX, 6 WIL, bite (d10+d10), _detachment_
+HP18、アーマー1、頑健18、敏捷8、意志6、噛みつき（d10+d10）、**分隊**
 
-- Gargantuan worms with bodies more than 100' long and 10' thick. Burrow in tunnels underground and surface to eat other creatures. Found in deserts and other drylands.
-- Victims that save against Critical Damage caused by the worm are swallowed whole. Anything inside the worm receives d12 acid damage each round.
-- **Critical Damage**: The target is devoured and crushed inside the worm.
+- 地中深くを掘って進み、食べるときだけ地上に出てくる巨大な蠕虫。高地の砂漠や高温のツンドラに生息する。
+- **重傷**：対象は飲み込まれ、ワームの胃酸によって頑健d8ダメージを受ける。
