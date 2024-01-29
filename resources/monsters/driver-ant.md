@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Driver Ant
+# サスライアリ
 
-3 HP, 12 DEX, bite (d6)
+HP3、頑健4、敏捷12、意志1、噛みつき（d6）
 
-- Giant, omnivorous black ants that build their colonies deep underground.
-- When hungry, they will consume anything in their path.
-- Once in melee combat, it will not stop attacking its victim until dead.
+- 雑食性の巨大黒アリで、地中深くにコロニーを作る。
+- 進路にある食べられるものはすべて消費する。
+- しばしばあり同士で意識を共有しているかのように行動する。サスライアリが2匹以上集まると**分隊**として扱う。
