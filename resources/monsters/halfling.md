@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Halfling
+# ハーフリング
 
-4 HP, 8 STR, 14 DEX, 14 WIL, shortswords (d6+d6)
+HP4、頑健8、敏捷14、意志14、ショートソード（d6）
 
-- Small humanoids with hairy feet live in small settlements called shires.
-- Highly resistant to fear effects.
-- Each shire is led by a stronger halfling called shire-riff, who has access to better equipment.
+- 毛むくじゃらの足を持つ小さなヒューマノイド。集落に住む。
+- 精神攻撃に高い耐性を持っている。
