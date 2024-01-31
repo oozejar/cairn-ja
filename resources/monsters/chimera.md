@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Chimera
+# キマイラ
 
-10 HP, 14 STR, bite and gore (d10+d10), fire breath (d12, _blast_)
+HP10、頑健14、敏捷11、意志13、噛みつき（d10）
 
-- A three-headed flying aberration.A hybrid of lion, goat, and dragon.
-- Created through powerful magic, these creatures are can be bound to a master or roaming free.
+- ライオン、ヤギ、そしてドラゴン（ブラック・グリーン・ホワイト・ブルー・レッドから種を選ぶ）のハイブリッド。
+- **ドラゴン・ブレス**：ドラゴン頭は種によって酸・雷・炎のいずれかを吐く（d8ダメージ）。
