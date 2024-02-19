@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Red Cap
+# レッドキャップ
 
-6 HP, 12 DEX, 8 WIL, two sickles (d6+d6)
+HP6、頑健6、敏捷12、意志8、二重鎌（d6+d6）
 
-- Borne from blood left to rot in the fae. Hats colored by blood; they even bathe in blood.
-- Attack travelers, but will ignore those with little to live for, as there is no pleasure in it.
-- **Critical Damage**: eviscerate the target, showering in blood, restoring any lost STR & HP.
+- 妖精の国で腐敗した血から生まれる。帽子が深い赤色に染まっているのはレッドキャップが殺害した者の血に浸するからだ。
+- 殺す快楽が味わいにくいため、生きがいのない者に関心を示さない。
+- **重症**：対象は割腹され、その血しぶきを浴びたレッドキャップは頑健ダメージを回復する。
