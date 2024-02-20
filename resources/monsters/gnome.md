@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Gnome
+# ノーム
 
-4 HP, 8 STR, 12 DEX, 14 WIL, crossbow (d8, bulky)
+HP4、頑健8、敏捷12、意志14、クロスボウ（d8、かさばる）
 
-- Short humanoids with long noses and ears.   Live underground or deep in forests.
-- Intelligent tinkers, love messing with any kind of mechanism. Can easily be convinced by the promise of something novel or uncommon.
-- Can understand and communicate with small mammals like moles or squirrels.
+- 長い鼻と耳を持つ背の低いヒューマノイド。地下や森の奥深くに住む。
+- 聡明ないじくり屋で、あらゆる仕掛けをいじるのが大好き。目新しいもの、珍しいものを約束されると簡単に納得してしまう。
+- モグラやリスなどの小型哺乳類とコミュニケーションをとることができる。
