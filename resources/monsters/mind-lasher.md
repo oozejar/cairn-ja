@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Mind Lasher
+# マインド・ラッシャー
 
-12 HP, 8 STR, 12 DEX, 18 WIL, tentacles (d6+d4), or mind blast (save)
+HP12、頑健8、敏捷12、意志18、触手（d6、ブラスト）
 
-- Humanoid creatures with purple skin and an octopus-like head. Dwell deep underground, plotting to slave humanity. Feed on the brains of other humanoids.
-- **Mind Blast**: Emits a frequency that affects the brains of nearby creatures, all caught must save WIL or be paralyzed.
-- **Critical Damage**: The tentacle rips the victim's brain out of the skull, and the mind lasher eats it, gaining all of the victim's memories.
+- 紫色の肌とイカのような頭部を持つヒューマノイド。地中深くに棲んだり、宇宙船に住む。他のヒューマノイドの脳を食べ、その記憶と生命力を吸収する。知能が非常に高いが、想像を絶するほどに邪悪だ。
+- **マインド・ブラスト**：近くの対象は意志セーヴに成功しなければ意志ダメージ1d4を受け、麻痺状態になる。
+- **重傷**：触手が被害者の脳を頭蓋骨から引きちぎる。
