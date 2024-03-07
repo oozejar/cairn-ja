@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Mimic
+# ミミック
 
-9 HP, 2 Armor, 13 STR, 12 WIL, bite (d12)
+HP9、アーマー2、頑健13、敏捷6、意思12、噛みつき（d8）
 
-- Monstrous shape-shifters that take on the form of inanimate objects made of wood and stone. Found only underground.
-- Remain motionless (generally in the form of chests or doors), devouring anything that touches it.
-- The mimic's saliva is extremely sticky, taking great strength to remove something from its mouth once glued.
+- ダンジョンでよく見かける物の姿をとる悪意ある怪物。
+- 動かず（典型的にはチェストや扉の形をしている）、近づく者を驚かせる。
+- ミミックの唾液は非常に粘着性が高く、取り除くのが難しい。錬金術師は小瓶でも150gpを支払う。
