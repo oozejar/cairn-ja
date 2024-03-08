@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Devil Swine
+# デヴィル・スワイン
 
-9 HP, 16 STR, 8 DEX, gore (d6+d6)
+HP9、頑健16、敏捷8、意思13、牙（d6+d6）
 
-- Corpulent humans who can change into massive swine. Lurk in isolated human settlements, hunting the people to eat their flesh.
-- Can only shape change at night, hunt in the dark, surprising victims.
-- **Critical Damage**: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
+- 人間の肉を食べるために巨大な豚の化け物に変身する肥満したヒューマノイドで。
+- 森や湿地に近い孤立した集落での狩りを好む。夜間しか変身できない。
+- **魅了**：対象は殺されるまでデヴィル・スワインの命令に従う。毎ラウンドに意思セーヴを行い、成功すると解放される。
