@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# The Green Dragon
+# グリーン・ドラゴン
 
-12 HP, 2 Armor, 14 STR, 15 DEX, 18 WIL, bite (d12), venom spit (d8, blast), __detachment__
+HP12、アーマー2、頑健14、敏捷15、意思18、噛みつき（d12）、**分隊**
 
-- 50 ft long serpentine creature with spiked scales. Dwell in dense forests, staying atop the trees to attack it's victims from above. 
-- Trick victims to obey it's commands in exchange for their lives, only to devour them anyway when they're no longer useful.  
-- **Critical Damage**: The poison takes hold of the victim's body, killing it if an antidote isn't applied within one day.
+- 緑色の大きい鱗を持つ蛇。森に住み、宝を大量に集める。
+- 知性と狡猾さを駆使して弱者を操る。
+- **塩素ガス**：近くにいる者は敏捷セーヴに成功しないとガスから逃れられず、頑健ダメージ1d4を受け、欠場状態になる。
