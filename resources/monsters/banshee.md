@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Banshee
+# バンシー
 
-8 HP, 3 Armor, 6 STR, 12 DEX, 15 WIL, ghostly touch (d8)
+8HP、3アーマー、6頑健、12敏捷、15意思、幽霊の接触（d8）
 
-- Incorporeal spirits that long after death to haunt the living.
-- Unharmed by cold, heat, or the elements.
-- **Wail**: Anyone in earshot must makes a WIL save or be fall unconscious.
+- 死後もこの世にとどまり、生者を悩ます幽霊。
+- 寒さ、熱さ、自然現象よりダメージを受けない。鉄製の武器によるダメージは強化される。
+- **哀哭**：聞こえる対象はすべて意思セーブを行い、成功しなければ気絶する。
