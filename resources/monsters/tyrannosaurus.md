@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Tyrannosaurus
+# ティラノサウルス
 
-18 HP, 1 Armor, 18 STR, 12 DEX, bite (d10+d10), _detachment_
+HP15、アーマー1、頑健18、敏捷12、意思8、噛みつき（d12）、分隊
 
-- Massive, two-legged, predatory reptiles with huge jaws.
-- Extremely rare, can only be found in large regions of untouched wilderness.
-- Only hunt large and dangerous prey, always attacking the most threatening foe first.
+- 巨大な顎を持つ二足歩行の巨大肉食恐竜。
+- 獰猛なハンターで、最も脅威となる敵から攻撃する。
