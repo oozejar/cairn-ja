@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Acolyte
+# アコライト
 
-4 HP, 1 Armor, 14 WIL, mace (d8) or ceremonial dagger (d6), Holy Symbol (_Ward_ once per day)
+HP4、アーマー1、頑健8、敏捷11、意思14、儀式用ダガー（d6）
 
-- Holy men & women bound to a particular deity.
-- Normally travel in groups of 4+.
+- 特定の神に仕える聖職者。通常4人以上のグループで行動する。
+- 聖印を携帯している（呪文〈ワード〉1日1回）。
