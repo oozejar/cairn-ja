@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Lamia
+# ラミア
 
-9 HP, 14 STR, 14 WIL, claws and bite (d8+d6)
+HP6、頑健11、敏捷12、意思16、噛みつき（D8）
 
-- Centaur-like monsters with the head and upper body of a woman and the lower body of a scaled beast. Prey on humanoids, drinking their blood and eating their flesh.
-- Can disguise their true form with illusions, appearing as a human woman.
-- Critical Damage: The lamia saps the victim's wisdom (d6 WIL damage). A victim who reaches 0 WIL this way mindlessly obeys the lamia's commands.
+- ケンタウロスのようなクリーチャーで、上半身は通常ヒューマノイドで、下半身はあらゆる動物のハイブリッドである。他人の生命力を捕食し、高い魅力と知性を使って獲物を誘惑する。
+- 本質的に魔力を持つ。自在に幻影を作り出し、魅了し、変装することができる。
+- **重症**：対象は意思ダメージ1d6を受け、精神が徐々に削られる。いずれラミアに魅了され、ラミアの前にいる間はその命令に従うようになる。
