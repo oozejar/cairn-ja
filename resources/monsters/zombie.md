@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Zombie
+# ゾンビ
 
-6 HP, 6 DEX, 3 WIL, rusted weapon (d6)
+HP2、頑健12、敏捷6、意思3、ギザギザの爪（d6）
 
-- Slow, mindless re-animated corpses. Created by wicked wizards to serve as guardians in hordes.
-- Simply attacks anything that comes nearby.
-- Cannot be affected by anything that targets the mind.
+- 死霊術の儀式や邪悪の影響によって蘇った死体。すべての精神に影響を与える効果を受けない。
+- 完全に破壊されない限り（全焼、完全な四肢切断など）、数分以内に復活する。
+- **重症**：対象は感染し、欠如状態になる。専門家やヒーラーの助けがなければ、1d4日でゾンビになる。
