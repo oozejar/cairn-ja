@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Cockatrice
+# コッカトリス
 
-5 HP, 8 STR, 14 DEX, beak (d6)
+HP5、頑健8、敏捷14、意思4、くちばし（d6）
 
-- Small creatures resembling chickens with reptilian features.
-- Notably agile and hard to pin down, their greatest enemy is the weasel.
-- **Critical Damage**: the victim is turned to stone until the Cockatrice is killed.
+- 爬虫類の特徴を持つニワトリに似た小型で機敏なクリーチャー。
+- **重症**：対象の傷が石で覆われ、3ラウンド以内に全身に広がる。石は削り取ることができる。
