@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Djinn
+# ジン
 
-10 HP, 1 Armor, 15 DEX, fists (d10+d8)
+HP15、頑健16、敏捷16、意思18、エレメンタル・フィスト（d10+d10）、分隊
 
-- Tall, cloudy humanoids from the plane of air. Highly intelligent, use invisibility and illusions to trick other beings.
-- May transform into a whirlwind, sweeping everything on its path.
-- Capable of granting a wish per person, the result always is distorted based on the wording of the wish.
+- 魔法を使う、異次元の聡明な存在。自在に姿を変えられ、無形にもなれる。
+- 何もないところから平凡な物体、音、幻影を呼び出すことができる。
+- **旋風**：建物の大きさの渦に変身し、通り道にあるものを破壊する（敏捷セーヴに成功しなければd12頑健ダメージを受ける）。
