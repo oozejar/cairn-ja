@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Dire Wolf
+# ダイア・ウルフ
 
-8 HP, 14 STR, 12 DEX, bite (d10)
+HP8、頑健14、敏捷12、意思8、噛みつき（d10）
 
-- Horse-sized, semi-intelligent wolves. Highly territorial, live in forests or mountains and ferouciously guard its surroudings.
-- Regular wolves are scared of them, but will fight alongside them against invaders.
-- Can be trained like dogs if captured young, but it's a extremely difficult challenging.
+- 馬ほど大きく賢い狼で、森や山を歩き回る。縄張り意識が強い。
+- 若いうちに捕獲すればペットとして調教できる。
