@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
 # クリプト・ガーディアン
