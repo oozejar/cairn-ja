@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Ghoul
+# グール
 
-6 HP, 14 STR, 3 WIL, elongated claws jagged teeth (d8+d6)
+HP6、頑健14、敏捷8、意思3、長い爪（d6+d6）
 
-- Grey-skinned man-things wearing shredded clothes, hunkering over the ground.
-- Craves the flesh of the living, as it grows only more powerful with each victim.
-- **Critical Damage**: target is paralyzed. The wound turns fatal in a day if not treated by a priest or skilled healer. If not burned, the body will rise as a Ghoul.
+- ズタズタの服を着た灰色肌の人物で、生者の肉のみを渇望している。
+- **重傷**：対象は壊死した傷を負い欠場状態になる。プリーストか熟練したヒーラーに治療されない限りd4日で死亡する。死体が焼かれなかった場合、後にグールとして蘇る。
