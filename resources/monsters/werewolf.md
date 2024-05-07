@@ -1,14 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Werewolf
+# ウェアウルフ
 
-8 HP, 15 STR, 14 DEX, 6 WIL, claws (d6+d6) or bite (d8)
+HP8、頑健15、敏捷14、意思6、爪（d6+d6）または噛みつき（d8）
 
-- Ferocious humanoid and wolf hybrids that hunt with abandon. Created by a curse being placed in a human or a wolf.
-- Its piercing howls can be heard for miles away, and are capable of calling regular wolves to its aid.
-- Mundane attacks are _impaired_ against the werewolf, but weapons made of silver are _enhanced_.
-- **Critical Damage**: The target becomes infected, transforming into a werewolf by the next full moon.
+- 獰猛なライカンスロープで、自在に狼の姿に変身できる。
+- ウェアウルフに対しては通常の攻撃は妨害されるが、銀でできた武器を用いた攻撃は強化される。
+- **重傷**：対象は狼狂に感染し、次の満月までにウェアウルフに変身する。
