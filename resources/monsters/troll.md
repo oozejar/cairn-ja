@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Troll
+# トロール
 
-6 HP, 1 Armor, 14 STR, 12 DEX, talons and bite (d10+d6)
+HP14、アーマー1、頑健14、敏捷12、意思4、爪（d8+d8）、棍棒（d10）
 
-- Wicked, 8’ tall humanoids with rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in the barren wilderness, and in the ruined homes of former victims.
-- Fire and acid damage received is _enhanced_, and stops a troll's regeneration. When attacked with either of those, the troll fails all morale checks.
-- Regains 3 HP per round, and even severed limbs are reattached. If killed, will regenerate and fight again in an hour.
+- イボだらけの肉と樹皮でできた肉食の巨人。地下や深い森、かつての獲物の廃墟に棲む。
+- 重傷を受けると、トロールは肉や手足を失っても戦い続ける。頑健が0になったときのみ、トロールは本当に殺される。頭部が酸や炎や強力な魔法を浴びない限り、1d4日以内に完全に再生する。
