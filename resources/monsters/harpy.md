@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Harpy
+# ハーピー
 
-8 HP, 12 DEX, 14 WIL, claws (d6+d6) or song (save)
+HP8、頑健7、敏捷12、意思14、爪（d6+d6）
 
-- Hideous monstrosities with the body of a giant eagle and a humanoid head.
-- Its movements and flight are clumsy due to its unproportional size. Rely on charmed victims to do anything of note. 
-- **Charming Song**: Anyone who hears the song of a harpy must save WIL or be charmed, following the harpy and defending it from any threat. The charm is broken when the victim leaves the harpy's presence. 
+- 大鷲の体に人型の頭部を持つ醜悪な怪物。
+- 不釣り合いな大きさのため、動きも飛行も不器用。魅惑された対象に頼る。
+- **歌**：近くにいる者は意思セーブに成功しなければ、その声に魅了され、ハーピーに従い、ハーピーを脅威から守らなければならない。
