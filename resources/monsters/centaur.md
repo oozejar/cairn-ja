@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Centaur
+# ケンタウロス
 
-6 HP, 1 Armor, 14 STR, 12 DEX, spear (d8) or short bow (d6)
+HP6、アーマー1、頑健14、敏捷12、意思14、槍（d8）またはショートボウ（d6）
 
-- Creatures with the lower body and legs of a horse and the upper body, arms and head of a humanoid.
-- Uses their great speed to hunt for food in the forest and plains.
+- 馬の下半身と脚を持ち、上半身はヒューマノイド。
+- 単独でいることはまれで、仲間と一緒にいることを好む。
