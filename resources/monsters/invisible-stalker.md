@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Invisible Stalker
+# インビジブル・ストーカー
 
-8 HP, 12 STR, 12 DEX, 15 WIL, unarmed blows (d6+d4)
+HP8、頑健12、敏捷12、意思15、拳（d4+d4）
 
-- Intelligent beings coalesced from arcane energies into a humanoid shape. Summoned by powerful wizards to perform tasks for them.
-- Completely invisible and silent, detecting it is virtually impossible.
-- If killed, the energies disperse and can later be reformed by its summoner. 
+- 強力な魔法使いによって現実に形作られた、完全に不可視で無音な知的生命体。
+- 攻撃は直接にダメージを与える（アーマーを引く）。
