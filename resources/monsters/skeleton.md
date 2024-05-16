@@ -1,11 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Skeleton
+# スケルトン
 
-5 HP, 1 Armor, 13 DEX, rusty sword (d6)
+HP5、アーマー1、頑健8、敏捷13、意思0、錆びた剣（d6）または弓（d6）
 
-- If a skeleton is killed and its bones are not scattered, it reforms.
+- マスターやネクロマンサーに仕えていることが多く、3人以上のグループでいることが多い。
+- 死亡時に身に着けていたものを身に着けている。
+- 殺されたとき、骨が散乱していない限り、スケルトンは再形成される。
