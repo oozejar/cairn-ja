@@ -1,16 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Estrie
+# エストリエ
 
-10 HP, 11 STR, 15 DEX, 14 WIL, draining hair (1d8)
+HP10、頑健11、敏捷15、意思14、ドレインヘアー（d8）
 
-- Appears as a woman with long dark hair that extends all the way to her feet.
-- Can transform into owls, but only at night. Their shriek is ear-piercing.
-- Drinking blood gives them power, but they can obtain sustenance from eating bread and salt if taken from those they have wronged.
-- Binding their hair prevents their transformation. They can be killed, but their head must then be buried, the mouth stuffed with dirt.
-- **Critical Damage**: target falls unconscious for 1d4 days.
-
+- 長い黒髪を足元まで伸ばした女性の姿で現れる。
+- フクロウに変身できるが、夜間のみ。髪を縛ると変身できなくなる。
+- 小動物や眠っている旅人の血を飲む。旅人はその際に羽根と月の夢を見る。
+- 殺されると次の満月に復活する。首を地中に埋め、口を砂で満たすことで復活を阻止できる。
+- **重傷**：対象は1d6時間意識を失う。
