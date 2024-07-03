@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Minotaur
+# ミノタウロス
 
-12 HP, 1 Armor, 16 STR, 8 WIL, axe (d10) or horns (d6+d6)
+HP12、アーマー1、頑健16、敏捷12、意思8、バトルアックス（d10）または突撃（d12）
 
-- A large, muscular humanoid with the head of a bull. Generally lair in a maze or dungeon, making the whole place it's territory.
-- Notably strong, is able to easily break stone, which it uses to alter the enviromment and separate its foes to kill then one by one.
-- If the minotaur suceeds in a Critical Damage save, it is driven into a bloodthirsty state, enhancing all its attacks and impairing all attacks agaisnt it. Only stops when killed or if it no longers sees any foe.
+- 牛の頭を持つ大型のヒューマノイド（一般的には雄）。迷路やダンジョンに住む。
+- 並外れた追跡者で、優れた嗅覚とナビゲーション能力を持つ。
