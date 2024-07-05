@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Catoblepas
+# カトブレパス
 
-7 HP, 1 Armor, 16 STR, 9 DEX, 13 WIL, tail (d8)
+HP7、アーマー1、頑健16、敏捷9、意思13、尻尾（D8）
 
-- A monstrous creature with the body of a Cape buffalo, scales on its back, and the head of a wild boar. Its enormous head always points towards te ground.
-- **Paralyze**: Its stare turns a single target to stone. Moonlight reverses the effect.   
+- 水牛、トカゲ、イノシシの特徴を持つキメラの怪物。巨大な頭は常に地面に向いている。
+- 麻痺：対象1体を石化させる。月光は元の姿に戻す。
 
