@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Giant Crab
+# 巨大蟹
 
-6 HP, 3 Armor, 14 STR, 3 DEX, 8 WIL, pincers (d12)
+HP6、アーマー3、頑健14、敏捷3、意思8、ハサミ(d8+d8)
 
-- Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near.
-- Their pincers crush with enough strength to ignore any armor lesser than plate. 
-- Their heavy carapace makes them notably hardy but equally slow.
+- 沿岸地域に生息する巨大な甲殻類。
+- 巨大蟹のハサミは非金属アーマーを完全に無視する。
