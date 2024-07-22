@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Basilisk
+# バジリスク
 
-10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
+HP10、アーマー1、頑健12、敏捷13、意思13、噛みつき（d10）
 
-- Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
-- **Gaze**: A PC meeting the Basilisk's gaze must make a WIL save or turn instantly to stone. Its reflection is harmless.
-- Fighting a **Basilisk** without meeting its gaze is difficult (direct attacks are __impaired__).
+- 長く蛇のようなトカゲで、地中深くや足元の茂みに巣を作る。
+- バジリスクと視線を合わせずに戦うのは難しい。(視線を向けての攻撃は妨害される)。
+- 視線：バジリスクと顔を合わせた対象は下からゆっくりと石化し、3ラウンド後には完全に固まる。バジリスクの砂肝から解毒剤を作ることができる。バジリスクの反射は無害である。
