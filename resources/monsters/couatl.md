@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Couatl
+# クアトル
 
-9 HP, 6 STR, 12 DEX, 15 WIL, bite (d6)
+HP9、頑健6、敏捷12、意思15、噛みつき（d6）
 
-- Long, feathered serpents with colorful wings. Live in hot jungles, and are considered divine by some civilizations.
-- Highly intelligent and magical, they are capable of speaking any language.
-- Can shapechange into the form of a person or small animal.
+- カラフルな羽を持つ、長い羽毛の蛇。灼熱のジャングルに生息し、一部の文明では神聖視されている。
+- 高い知能と魔力を持ち、どの言語も話せる。
+- 人や小動物の姿に変身できる。
