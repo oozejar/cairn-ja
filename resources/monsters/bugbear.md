@@ -1,12 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Bugbear
+# バグベア
 
-4 HP, 1 Armor, 14 STR, 12 DEX, 11 WIL, club (d8, bulky)
+HP8、アーマー1、頑健14、敏捷12、意思11、棍棒（d8）
 
-- Large, goblinoids covered in animal-like hair.
-- Prefers stealth and trickery to gain an advantage.
+- 毛深いゴブリンのような大型クリーチャー。
+- 有利になるようにステルスと策略を好む。
+- 同じようなクリーチャー（典型的にはゴブリン）のパーティを指揮することが多い。
