@@ -1,12 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Foxwoman
+# 狐女
 
-6 HP, 12 STR, 14 DEX, 11 WIL, teeth (d6), claws (d8+d8)
+HP8、頑健12、敏捷14、意思15、爪（d6+d6）、噛みつき（d8）
 
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Transforms into a fox at will.
+- キツネ、またはキツネの足を１本隠している女性の姿をとることができる。
+- 金属の武器によるダメージを受けない。
+- **重傷**：対象は首を締められ気絶する。
