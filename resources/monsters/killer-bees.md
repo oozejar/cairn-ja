@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Killer Bees
+# キラービー
 
-6 HP, 6 STR, 14 DEX, 8 WIL, sting (d6), _detachment_
+HP6、頑健6、敏捷14、意思8、針（d6）、分隊
 
-- Oversized bees that build underground hives. Hyper aggressive, attack anything that comes near.
-- Produce special honey that heals 1d6 STR. 3 uses.
-- When the bees cause STR damage, the stinger is lodged into the target, dealing d4 damage each round until removed.
+- 地下に巣を作る特大の蜂。非常に攻撃的で、近づくものは何でも攻撃する。
+- 頑健を1d6回復させる特別な蜂蜜を生産する（3回分）。
+- キラービーが頑健ダメージを与えると、針が対象に突き刺さり、取り除くまで毎ラウンドd4ダメージを与える。
