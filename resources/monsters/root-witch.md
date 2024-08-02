@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Root Witch
+# ルート・ウィッチ
 
-8 HP, 9 STR, 16 DEX, 14 WIL, tuber-fingers (d6)
+HP8、頑健9、敏捷16、意思14、塊茎指（d6）
 
-- Excellent tunneler that hides underground near water. Wiggles tiny fronds into the air as lures.
-- Above-ground, appears vaguely humanoid with the face of a rotted tree stump.
-- Will exchange rare minerals for a “fresh corpse” of any kind.
+- 水辺の地下に潜む優秀なトンネル掘り。小さな葉を空中にくねらせて獲物を誘う。
+- 地上では、朽ちた木の切り株のような顔で、どことなく人型に見える。
+- 「新鮮な死体」を手にするために珍しい鉱物を交換する。
