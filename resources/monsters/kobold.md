@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Kobold
+# コボルド
 
-3 HP, 8 STR, bite (d6)
+HP3、頑健8、敏捷13、意思4、噛みつき（d6）、槍（d8）
 
-- Small canine humanoids with hairless, scaly, red-brown skin. Can see perfectly in the dark, but are harmed by direct sunlight. 
-- Fight dirty, ambushing their victims in cramped spaces and running away as soon as the tide turns. Try to ambush adventurers and take their possessions. 
-- **Critical Damage**: The Kobold bites a off a chunk of flesh from the target.
+- 犬の特徴とうろこ状の皮膚をあわせ持つ無毛のヒューマノイド。真っ暗闇ではよく見えるが、直射日光を浴びるとダメージを受ける。
+- 敵を倒すために罠や待ち伏せを使う。より強力なクリーチャーに仕えて行動することが多い。
