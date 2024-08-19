@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: モンスター
+grand_parent: リソース
 ---
 
-# Ifrit
+# イフリット
 
-10 HP, 15 STR, 14 WIL, flaming sword (d10+d8, bulky)
+HP10、頑健11、敏捷13、意思14、炎の剣（d10）
 
-- Clever, treacherous beings from the elemental plane of fire. Manifest as huge men with terrifying faces and an aura of heat and smoke.
-- Might be summoned by powerful magic and ordered to complete tasks, but will subvert commands while following them to the letter.
-- **Pillar of Flame**: The Ifrit transforms into a tall, 30' wide collum of flame, torching everything touched for d12 damage. It needs a short rest before being able to do it again.
+- 火のエレメンタル・プレーンからやってきたジンのような賢い存在。巨大なヒューマノイドの姿をしている。濡れた武器から受ける攻撃は強化される。
+- 魔法使いに仕えるため強力な魔術によって召喚されることが多いが、受けた命令を覆す傾向にある。
+- **炎柱**：ビルほどの高さの炎柱が出現し、触れるすべての対象にd12ダメージを与える。使用頻度は一日に一回まで。
